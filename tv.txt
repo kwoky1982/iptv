@@ -349,7 +349,7 @@ http://d029dcec.kazmazpaz.ru/iptv/FHKC2D3GGKYK3Q/30082/index.m3u8
 http://23.237.104.106:8080/USA_IFC/index.m3u8
 
 #EXTINF:-1 group-title="US" tvg-logo="https://uploads.dailydot.com/2020/05/best_shows_hgtv.jpg?auto=compress&fm=pjpg",HGTV
-http://d029dcec.kazmazpaz.ru/iptv/FHKC2D3GGKYK3Q/1084/index.m3u8
+http://d029dcec.kazmazpaz.ru/iptv/FHKC2D3GGKYK3Q/6525/index.m3u8
 
 #EXTINF:-1 group-title="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png",Food Network
 http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
