@@ -369,11 +369,11 @@ http://iptvpro.pw:35451/live/37988978/82558793/1146.m3u8
 #EXTINF:-1 group-title="US" tvg-logo="https://icon-library.com/images/showtime-icon/showtime-icon-24.jpg",SHO
 http://iptvpro.pw:35451/live/37988978/82558793/1154.m3u8
 
+#EXTINF:-1 group-title="US" tvg-logo="https://i.scdn.co/image/ab67616100005174a5431057066d34a3a6e95502", Daniel Tiger
+https://kids.pbs-video.pbs.org/p/pbs-kids/sid/8f56ffa08f6c4395af3cb51a3c1ab8bf/videos/daniel-tigers-neighborhood/d3f90139-dc04-4bc1-8853-68ca56f78a60/2000458940/hd-16x9-mezzanine-1080p/dtig111-ep-dvi-en-sp2-AABR-AVC-720p_318.m3u8
+
 #EXTINF:-1 group-title="US" tvg-logo="https://cdn-icons-png.magnific.com/512/7271/7271952.png",Baltimore Giraffe
 https://s158.ipcamlive.com/streams_timeshift/215e71f6b1e7185ef/stream.m3u8
-
-#EXTINF:-1 group-title="US" tvg-logo="https://messi.damitv.st/live-sd/streamed/delta/live_cfb_columbia-lions-lafayette-live-streaming-623869776/playlist.m3u8?tk=h6ou1nyHl3oaxIfDCCOCzA&e=1789876811", Daniel's Tiger
-https://messi.damitv.st/live-sd/streamed/delta/live_cfb_columbia-lions-lafayette-live-streaming-623869776/playlist.m3u8?tk=h6ou1nyHl3oaxIfDCCOCzA&e=1789876811
 
 #EXTINF:-1 group-title="US" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/044/448/752/small/collection-of-panda-head-logo-designs-isolated-png.png",Smithsonian Panda Cam1
 https://nzp-wowza02.si.edu/live_edge_panda25/smil:panda125_01.smil/chunklist_w2060176253_b5500000.m3u8
