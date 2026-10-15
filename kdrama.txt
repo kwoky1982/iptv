@@ -1,0 +1,1082 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="The_Season" tvg-logo="https://ps.ryzypics.com/upload/vod/20260618-1/614965553dbea8ac32b494f8601742cd.webp",Ep01
+https://svip.ryiplay18.com/20260617/7247_048530d3/index.m3u8
+
+#EXTINF:-1 group-title="The_Season" tvg-logo="https://ps.ryzypics.com/upload/vod/20260618-1/614965553dbea8ac32b494f8601742cd.webp",Ep02
+https://svip.ryiplay18.com/20260617/7248_40694310/index.m3u8
+
+#EXTINF:-1 group-title="The_Season" tvg-logo="https://ps.ryzypics.com/upload/vod/20260618-1/614965553dbea8ac32b494f8601742cd.webp",Ep03
+https://svip.ryiplay18.com/20260617/7254_6d601907/index.m3u8
+
+#EXTINF:-1 group-title="The_Season" tvg-logo="https://ps.ryzypics.com/upload/vod/20260618-1/614965553dbea8ac32b494f8601742cd.webp",Ep04
+https://svip.ryiplay18.com/20260617/7245_b837c768/index.m3u8
+
+#EXTINF:-1 group-title="The_Season" tvg-logo="https://ps.ryzypics.com/upload/vod/20260618-1/614965553dbea8ac32b494f8601742cd.webp",Ep05
+https://svip.ryiplay18.com/20260617/7251_2753eddd/index.m3u8
+
+#EXTINF:-1 group-title="The_Season" tvg-logo="https://ps.ryzypics.com/upload/vod/20260618-1/614965553dbea8ac32b494f8601742cd.webp",Ep06
+https://svip.ryiplay18.com/20260617/7250_8235dc7d/index.m3u8
+
+
+#EXTINF:-1 group-title="金特务：本色回归" tvg-logo="https://tu.iqiyizyimg.com/upload/vod/20260627-1/44ac039ba799ab348ea6a9720f599568.webp",Ep01
+https://play.ly166.com:65/videos/20260626/6a3e9f1d5cf6b9c7465455aa/90e67d/index.m3u8
+
+#EXTINF:-1 group-title="金特务：本色回归" tvg-logo="https://tu.iqiyizyimg.com/upload/vod/20260627-1/44ac039ba799ab348ea6a9720f599568.webp",Ep02
+https://play.ly166.com:65/videos/20260628/6a3ff79d80eee9b9557c15dd/1d11b3/index.m3u8
+
+#EXTINF:-1 group-title="金特务：本色回归" tvg-logo="https://tu.iqiyizyimg.com/upload/vod/20260627-1/44ac039ba799ab348ea6a9720f599568.webp",Ep03
+https://play.ly166.com:65/videos/20260703/6a47dbf180eee9b9552f8e5c/4737d5/index.m3u8
+
+#EXTINF:-1 group-title="金特务：本色回归" tvg-logo="https://tu.iqiyizyimg.com/upload/vod/20260627-1/44ac039ba799ab348ea6a9720f599568.webp",Ep04
+https://play.ly166.com:65/videos/20260704/6a492adc80eee9b95549fc59/ff4c39/index.m3u8
+
+#EXTINF:-1 group-title="金特务：本色回归" tvg-logo="https://tu.iqiyizyimg.com/upload/vod/20260627-1/44ac039ba799ab348ea6a9720f599568.webp",Ep05
+https://play.ly166.com:65/videos/20260710/6a51123a5cf6b9c74686d4aa/8481ga/index.m3u8
+
+#EXTINF:-1 group-title="金特务：本色回归" tvg-logo="https://tu.iqiyizyimg.com/upload/vod/20260627-1/44ac039ba799ab348ea6a9720f599568.webp",Ep06
+https://play.ly166.com:65/videos/20260712/6a526f355cf6b9c746e1f2ba/214b7c/index.m3u8
+
+#EXTINF:-1 group-title="金特务：本色回归" tvg-logo="https://tu.iqiyizyimg.com/upload/vod/20260627-1/44ac039ba799ab348ea6a9720f599568.webp",Ep07
+https://play.ly166.com:65/videos/20260717/6a5a49e55cf6b9c746709333/0g4ga1/index.m3u8
+
+#EXTINF:-1 group-title="金特务：本色回归" tvg-logo="https://tu.iqiyizyimg.com/upload/vod/20260627-1/44ac039ba799ab348ea6a9720f599568.webp",Ep08
+https://play.ly166.com:65/videos/20260718/6a5b9ef15cf6b9c746eb199d/5943aa/index.m3u8
+
+#EXTINF:-1 group-title="金特务：本色回归" tvg-logo="https://tu.iqiyizyimg.com/upload/vod/20260627-1/44ac039ba799ab348ea6a9720f599568.webp",Ep09
+https://play.ly166.com:65/videos/20260724/6a637cac5cf6b9c746be62b6/1775ee/index.m3u8
+
+#EXTINF:-1 group-title="金特务：本色回归" tvg-logo="https://tu.iqiyizyimg.com/upload/vod/20260627-1/44ac039ba799ab348ea6a9720f599568.webp",Ep10
+https://play.ly166.com:65/videos/20260726/6a64dde25cf6b9c746a8410b/57baeg/index.m3u8
+
+#EXTINF:-1 group-title=" 	" tvg-logo="https./makeTvM3u.py.py.wikimedia.org/wikipedia/zh/b/b7/A_Shop_For_Killers_2024_poster.png./makeTvM3u.py",Ep01
+https://play.ly166.com:65/videos/20260722/6a60a6c45cf6b9c746b5a5c1/eg3gge/index.m3u8
+
+#EXTINF:-1 group-title="Kill_S02" tvg-logo="https./makeTvM3u.py.py.wikimedia.org/wikipedia/zh/b/b7/A_Shop_For_Killers_2024_poster.png./makeTvM3u.py",Ep02
+https://play.ly166.com:65/videos/20260722/6a60a6c45cf6b9c746b5a5c0/f7feg0/index.m3u8
+
+#EXTINF:-1 group-title="Kill_S02" tvg-logo="https./makeTvM3u.py.py.wikimedia.org/wikipedia/zh/b/b7/A_Shop_For_Killers_2024_poster.png./makeTvM3u.py",Ep03
+https://play.ly166.com:65/videos/20260729/6a69d76d5c14f34ca53c1f78/645916/index.m3u8
+
+#EXTINF:-1 group-title="Kill_S02" tvg-logo="https./makeTvM3u.py.py.wikimedia.org/wikipedia/zh/b/b7/A_Shop_For_Killers_2024_poster.png./makeTvM3u.py",Ep04
+https://play.ly166.com:65/videos/20260729/6a69d85d5c14f34ca53d52c4/gb1ceb/index.m3u8
+
+#EXTINF:-1 group-title="Kill_S02" tvg-logo="https./makeTvM3u.py.py.wikimedia.org/wikipedia/zh/b/b7/A_Shop_For_Killers_2024_poster.png./makeTvM3u.py",Ep05
+https://play.ly166.com:65/videos/20260805/6a734d765c14f34ca56df3ec/4f44cg/index.m3u8
+
+#EXTINF:-1 group-title="Kill_S02" tvg-logo="https./makeTvM3u.py.py.wikimedia.org/wikipedia/zh/b/b7/A_Shop_For_Killers_2024_poster.png./makeTvM3u.py",Ep06
+https://play.ly166.com:65/videos/20260805/6a734c4d339f684cac461138/c1cc77/index.m3u8
+
+#EXTINF:-1 group-title="Kill_S02" tvg-logo="https./makeTvM3u.py.py.wikimedia.org/wikipedia/zh/b/b7/A_Shop_For_Killers_2024_poster.png./makeTvM3u.py",Ep07
+https://play.ly166.com:65/videos/20260812/6a7c542beab8874c97e1e56d/ag5b68/index.m3u8
+
+#EXTINF:-1 group-title="Kill_S02" tvg-logo="https./makeTvM3u.py.py.wikimedia.org/wikipedia/zh/b/b7/A_Shop_For_Killers_2024_poster.png./makeTvM3u.py",Ep08
+https://play.ly166.com:65/videos/20260812/6a7c5774339f684cac00d9ac/19f10a/index.m3u8
+
+
+#EXTINF:-1 group-title="愛情怎麼翻譯？" tvg-logo="https://ps.ryzypics.com/upload/vod/20260116-1/15283be77b4002a8743d44450929ef08.webp",Ep01
+https://bfikuncdn.com/20260116/ivpodcaD/index.m3u8
+
+#EXTINF:-1 group-title="愛情怎麼翻譯？" tvg-logo="https://ps.ryzypics.com/upload/vod/20260116-1/15283be77b4002a8743d44450929ef08.webp",Ep02
+https://bfikuncdn.com/20260116/W48kGRKH/index.m3u8
+
+#EXTINF:-1 group-title="愛情怎麼翻譯？" tvg-logo="https://ps.ryzypics.com/upload/vod/20260116-1/15283be77b4002a8743d44450929ef08.webp",Ep03
+https://bfikuncdn.com/20260116/LxjUHRYQ/index.m3u8
+
+#EXTINF:-1 group-title="愛情怎麼翻譯？" tvg-logo="https://ps.ryzypics.com/upload/vod/20260116-1/15283be77b4002a8743d44450929ef08.webp",Ep04
+https://bfikuncdn.com/20260116/NjN0lbY0/index.m3u8
+
+#EXTINF:-1 group-title="愛情怎麼翻譯？" tvg-logo="https://ps.ryzypics.com/upload/vod/20260116-1/15283be77b4002a8743d44450929ef08.webp",Ep05
+https://bfikuncdn.com/20260116/zI3Ouyeq/index.m3u8
+
+#EXTINF:-1 group-title="愛情怎麼翻譯？" tvg-logo="https://ps.ryzypics.com/upload/vod/20260116-1/15283be77b4002a8743d44450929ef08.webp",Ep06
+https://bfikuncdn.com/20260116/s3CT5TGt/index.m3u8
+
+#EXTINF:-1 group-title="愛情怎麼翻譯？" tvg-logo="https://ps.ryzypics.com/upload/vod/20260116-1/15283be77b4002a8743d44450929ef08.webp",Ep07
+https://bfikuncdn.com/20260116/u53r9bgZ/index.m3u8
+
+#EXTINF:-1 group-title="愛情怎麼翻譯？" tvg-logo="https://ps.ryzypics.com/upload/vod/20260116-1/15283be77b4002a8743d44450929ef08.webp",Ep08
+https://bfikuncdn.com/20260116/thgBqKOC/index.m3u8
+
+#EXTINF:-1 group-title="愛情怎麼翻譯？" tvg-logo="https://ps.ryzypics.com/upload/vod/20260116-1/15283be77b4002a8743d44450929ef08.webp",Ep09
+https://bfikuncdn.com/20260116/b00KgZWv/index.m3u8
+
+#EXTINF:-1 group-title="愛情怎麼翻譯？" tvg-logo="https://ps.ryzypics.com/upload/vod/20260116-1/15283be77b4002a8743d44450929ef08.webp",Ep10
+https://bfikuncdn.com/20260116/qUUV4Ewy/index.m3u8
+
+#EXTINF:-1 group-title="愛情怎麼翻譯？" tvg-logo="https://ps.ryzypics.com/upload/vod/20260116-1/15283be77b4002a8743d44450929ef08.webp",Ep11
+https://bfikuncdn.com/20260116/o3QMnsw1/index.m3u8
+
+#EXTINF:-1 group-title="愛情怎麼翻譯？" tvg-logo="https://ps.ryzypics.com/upload/vod/20260116-1/15283be77b4002a8743d44450929ef08.webp",Ep12
+https://bfikuncdn.com/20260116/HKMcTeE1/index.m3u8
+
+#EXTINF:-1 group-title="淚之女王" tvg-logo="https://ps.ryzypics.com/upload/vod/20241027-1/6c73e81b8dc076bf56e07760d8142c38.webp",Ep01
+https://play.ly166.com:65/videos/20250705/6868fba180eee9b9556c3351/201c09/index.m3u8
+
+#EXTINF:-1 group-title="淚之女王" tvg-logo="https://ps.ryzypics.com/upload/vod/20241027-1/6c73e81b8dc076bf56e07760d8142c38.webp",Ep02
+https://play.ly166.com:65/videos/20250705/6868fc5580eee9b9556c8a9b/082cg2/index.m3u8
+
+#EXTINF:-1 group-title="淚之女王" tvg-logo="https://ps.ryzypics.com/upload/vod/20241027-1/6c73e81b8dc076bf56e07760d8142c38.webp",Ep03
+https://play.ly166.com:65/videos/20250705/6869048980eee9b9557250bd/3a3bg8/index.m3u8
+
+#EXTINF:-1 group-title="淚之女王" tvg-logo="https://ps.ryzypics.com/upload/vod/20241027-1/6c73e81b8dc076bf56e07760d8142c38.webp",Ep04
+https://play.ly166.com:65/videos/20250705/6868fd805cf6b9c7461cae65/32330a/index.m3u8
+
+#EXTINF:-1 group-title="淚之女王" tvg-logo="https://ps.ryzypics.com/upload/vod/20241027-1/6c73e81b8dc076bf56e07760d8142c38.webp",Ep05
+https://play.ly166.com:65/videos/20250705/6868f63d5cf6b9c746175211/e336bd/index.m3u8
+
+#EXTINF:-1 group-title="淚之女王" tvg-logo="https://ps.ryzypics.com/upload/vod/20241027-1/6c73e81b8dc076bf56e07760d8142c38.webp",Ep06
+https://play.ly166.com:65/videos/20250705/6868fc1980eee9b9556c73c9/d189ed/index.m3u8
+
+#EXTINF:-1 group-title="淚之女王" tvg-logo="https://ps.ryzypics.com/upload/vod/20241027-1/6c73e81b8dc076bf56e07760d8142c38.webp",Ep07
+https://play.ly166.com:65/videos/20250705/6868fccd5cf6b9c7461c251f/487db8/index.m3u8
+
+#EXTINF:-1 group-title="淚之女王" tvg-logo="https://ps.ryzypics.com/upload/vod/20241027-1/6c73e81b8dc076bf56e07760d8142c38.webp",Ep08
+https://play.ly166.com:65/videos/20250705/6868fd095cf6b9c7461c443d/aebcdb/index.m3u8
+
+#EXTINF:-1 group-title="淚之女王" tvg-logo="https://ps.ryzypics.com/upload/vod/20241027-1/6c73e81b8dc076bf56e07760d8142c38.webp",Ep09
+https://play.ly166.com:65/videos/20250705/6868f63d5cf6b9c746175210/18a5cd/index.m3u8
+
+#EXTINF:-1 group-title="淚之女王" tvg-logo="https://ps.ryzypics.com/upload/vod/20241027-1/6c73e81b8dc076bf56e07760d8142c38.webp",Ep10
+https://play.ly166.com:65/videos/20250705/6868fc5580eee9b9556c8a9d/fa1bfg/index.m3u8
+
+#EXTINF:-1 group-title="淚之女王" tvg-logo="https://ps.ryzypics.com/upload/vod/20241027-1/6c73e81b8dc076bf56e07760d8142c38.webp",Ep11
+https://play.ly166.com:65/videos/20250705/6869053c80eee9b95572e21d/b69161/index.m3u8
+
+#EXTINF:-1 group-title="淚之女王" tvg-logo="https://ps.ryzypics.com/upload/vod/20241027-1/6c73e81b8dc076bf56e07760d8142c38.webp",Ep12
+https://play.ly166.com:65/videos/20250705/6869053c80eee9b95572e21c/a31234/index.m3u8
+
+#EXTINF:-1 group-title="淚之女王" tvg-logo="https://ps.ryzypics.com/upload/vod/20241027-1/6c73e81b8dc076bf56e07760d8142c38.webp",Ep13
+https://play.ly166.com:65/videos/20250705/6868fc5580eee9b9556c8a9c/fg2b73/index.m3u8
+
+#EXTINF:-1 group-title="淚之女王" tvg-logo="https://ps.ryzypics.com/upload/vod/20241027-1/6c73e81b8dc076bf56e07760d8142c38.webp",Ep14
+https://play.ly166.com:65/videos/20250705/6868fd4480eee9b9556d4725/95e0e2/index.m3u8
+
+#EXTINF:-1 group-title="淚之女王" tvg-logo="https://ps.ryzypics.com/upload/vod/20241027-1/6c73e81b8dc076bf56e07760d8142c38.webp",Ep15
+https://play.ly166.com:65/videos/20250705/686905b55cf6b9c74622e956/6b4a42/index.m3u8
+
+#EXTINF:-1 group-title="淚之女王" tvg-logo="https://ps.ryzypics.com/upload/vod/20241027-1/6c73e81b8dc076bf56e07760d8142c38.webp",Ep16
+https://play.ly166.com:65/videos/20250705/6869071d80eee9b9557429a3/93ec12/index.m3u8
+
+#EXTINF:-1 group-title="Loki_S02" tvg-logo="https://pic.ry-pic.com/upload/vod/20251017-1/5d46c88c0285db7a5d60774ee13d9d93.webp",Ep01
+https://cdn7.ryplay7.com/20251017/16616_6d874d17/index.m3u8
+
+#EXTINF:-1 group-title="Loki_S02" tvg-logo="https://pic.ry-pic.com/upload/vod/20251017-1/5d46c88c0285db7a5d60774ee13d9d93.webp",Ep02
+https://cdn7.ryplay7.com/20251017/16617_a4efb337/index.m3u8
+
+#EXTINF:-1 group-title="Loki_S02" tvg-logo="https://pic.ry-pic.com/upload/vod/20251017-1/5d46c88c0285db7a5d60774ee13d9d93.webp",Ep03
+https://cdn7.ryplay7.com/20251017/16618_ec4a4495/index.m3u8
+
+#EXTINF:-1 group-title="Loki_S02" tvg-logo="https://pic.ry-pic.com/upload/vod/20251017-1/5d46c88c0285db7a5d60774ee13d9d93.webp",Ep04
+https://cdn7.ryplay7.com/20251017/16619_014323b8/index.m3u8
+
+#EXTINF:-1 group-title="Loki_S02" tvg-logo="https://pic.ry-pic.com/upload/vod/20251017-1/5d46c88c0285db7a5d60774ee13d9d93.webp",Ep05
+https://cdn7.ryplay7.com/20251017/16620_f21f74e0/index.m3u8
+
+#EXTINF:-1 group-title="Loki_S02" tvg-logo="https://pic.ry-pic.com/upload/vod/20251017-1/5d46c88c0285db7a5d60774ee13d9d93.webp",Ep06
+https://cdn7.ryplay7.com/20251017/16621_e417bf0f/index.m3u8
+
+
+#EXTINF:-1 group-title="Ludwig" tvg-logo="https://vip.dytt-img.com/upload/vod/20250401-1/f2ca31a2e92150d6de66c55d11b2bb81.jpg",Ep01
+https://play.modujx16.com/20241019/c1j8i5SN/index.m3u8
+
+#EXTINF:-1 group-title="Ludwig" tvg-logo="https://vip.dytt-img.com/upload/vod/20250401-1/f2ca31a2e92150d6de66c55d11b2bb81.jpg",Ep02
+https://play.modujx16.com/20241019/t8Kz35DU/index.m3u8
+
+#EXTINF:-1 group-title="Ludwig" tvg-logo="https://vip.dytt-img.com/upload/vod/20250401-1/f2ca31a2e92150d6de66c55d11b2bb81.jpg",Ep03
+https://play.modujx16.com/20241027/QOllt5Dq/index.m3u8
+
+#EXTINF:-1 group-title="Ludwig" tvg-logo="https://vip.dytt-img.com/upload/vod/20250401-1/f2ca31a2e92150d6de66c55d11b2bb81.jpg",Ep04
+https://play.modujx16.com/20241030/kJOxFPTs/index.m3u8
+
+#EXTINF:-1 group-title="Ludwig" tvg-logo="https://vip.dytt-img.com/upload/vod/20250401-1/f2ca31a2e92150d6de66c55d11b2bb81.jpg",Ep05
+https://play.modujx16.com/20241102/seTsXLmC/index.m3u8
+
+#EXTINF:-1 group-title="Ludwig" tvg-logo="https://vip.dytt-img.com/upload/vod/20250401-1/f2ca31a2e92150d6de66c55d11b2bb81.jpg",Ep06
+https://play.modujx16.com/20241102/9sCewylq/index.m3u8
+
+#EXTINF:-1 group-title="屍戰朝鮮_S01" tvg-logo="https://ynztctv.com/upload/vod/20221028-1/751cfcfcd124cf624843b2488f6fdd2d.jpg",Ep01
+https://bfikuncdn.com/20221026/bXx7k3Xn/index.m3u8
+
+#EXTINF:-1 group-title="屍戰朝鮮_S01" tvg-logo="https://ynztctv.com/upload/vod/20221028-1/751cfcfcd124cf624843b2488f6fdd2d.jpg",Ep02
+https://bfikuncdn.com/20221026/jZ8qqeQA/index.m3u8
+
+#EXTINF:-1 group-title="屍戰朝鮮_S01" tvg-logo="https://ynztctv.com/upload/vod/20221028-1/751cfcfcd124cf624843b2488f6fdd2d.jpg",Ep03
+https://bfikuncdn.com/20221026/cWcojc6V/index.m3u8
+
+#EXTINF:-1 group-title="屍戰朝鮮_S01" tvg-logo="https://ynztctv.com/upload/vod/20221028-1/751cfcfcd124cf624843b2488f6fdd2d.jpg",Ep04
+https://bfikuncdn.com/20221026/CLkXyU5R/index.m3u8
+
+#EXTINF:-1 group-title="屍戰朝鮮_S01" tvg-logo="https://ynztctv.com/upload/vod/20221028-1/751cfcfcd124cf624843b2488f6fdd2d.jpg",Ep05
+https://bfikuncdn.com/20221026/7FJMMSMp/index.m3u8
+
+#EXTINF:-1 group-title="屍戰朝鮮_S01" tvg-logo="https://ynztctv.com/upload/vod/20221028-1/751cfcfcd124cf624843b2488f6fdd2d.jpg",Ep06
+https://bfikuncdn.com/20221026/8DZHY410/index.m3u8
+
+#EXTINF:-1 group-title="屍戰朝鮮_S02" tvg-logo="https://ynztctv.com/upload/vod/20221028-1/e028eed785eefe6736a97f3227c36b01.jpg",Ep01
+https://bfikuncdn.com/20221026/jEZObtsz/index.m3u8
+
+#EXTINF:-1 group-title="屍戰朝鮮_S02" tvg-logo="https://ynztctv.com/upload/vod/20221028-1/e028eed785eefe6736a97f3227c36b01.jpg",Ep02
+https://bfikuncdn.com/20221026/b8NGrHj1/index.m3u8
+
+#EXTINF:-1 group-title="屍戰朝鮮_S02" tvg-logo="https://ynztctv.com/upload/vod/20221028-1/e028eed785eefe6736a97f3227c36b01.jpg",Ep03
+https://bfikuncdn.com/20221026/m1TCRV6r/index.m3u8
+
+#EXTINF:-1 group-title="屍戰朝鮮_S02" tvg-logo="https://ynztctv.com/upload/vod/20221028-1/e028eed785eefe6736a97f3227c36b01.jpg",Ep04
+https://bfikuncdn.com/20221026/8d3qxkvF/index.m3u8
+
+#EXTINF:-1 group-title="屍戰朝鮮_S02" tvg-logo="https://ynztctv.com/upload/vod/20221028-1/e028eed785eefe6736a97f3227c36b01.jpg",Ep05
+https://bfikuncdn.com/20221026/FFtr9Ytz/index.m3u8
+
+#EXTINF:-1 group-title="屍戰朝鮮_S02" tvg-logo="https://ynztctv.com/upload/vod/20221028-1/e028eed785eefe6736a97f3227c36b01.jpg",Ep06
+https://bfikuncdn.com/20221026/b87KEQJZ/index.m3u8
+
+#EXTINF:-1 group-title="The.Pitt" tvg-logo="https://tu.moduzytupian.com/upload/vod/20250110-2/c29fceef1daa9e7612321fdd50d04dfa.jpg",Ep01
+https://play.modujx11.com/20250110/z1QiLlKu/index.m3u8
+
+#EXTINF:-1 group-title="The.Pitt" tvg-logo="https://tu.moduzytupian.com/upload/vod/20250110-2/c29fceef1daa9e7612321fdd50d04dfa.jpg",Ep02
+https://play.modujx11.com/20250110/yKTkYxXx/index.m3u8
+
+#EXTINF:-1 group-title="The.Pitt" tvg-logo="https://tu.moduzytupian.com/upload/vod/20250110-2/c29fceef1daa9e7612321fdd50d04dfa.jpg",Ep03
+https://play.modujx11.com/20250117/vLmiBKSX/index.m3u8
+
+#EXTINF:-1 group-title="The.Pitt" tvg-logo="https://tu.moduzytupian.com/upload/vod/20250110-2/c29fceef1daa9e7612321fdd50d04dfa.jpg",Ep04
+https://play.modujx11.com/20250124/W3tF4H9D/index.m3u8
+
+#EXTINF:-1 group-title="The.Pitt" tvg-logo="https://tu.moduzytupian.com/upload/vod/20250110-2/c29fceef1daa9e7612321fdd50d04dfa.jpg",Ep05
+https://play.modujx11.com/20250131/joDvyDjV/index.m3u8
+
+#EXTINF:-1 group-title="The.Pitt" tvg-logo="https://tu.moduzytupian.com/upload/vod/20250110-2/c29fceef1daa9e7612321fdd50d04dfa.jpg",Ep06
+https://play.modujx11.com/20250207/mY2i4iOK/index.m3u8
+
+#EXTINF:-1 group-title="The.Pitt" tvg-logo="https://tu.moduzytupian.com/upload/vod/20250110-2/c29fceef1daa9e7612321fdd50d04dfa.jpg",Ep07
+https://play.modujx11.com/20250214/knkQuYbt/index.m3u8
+
+#EXTINF:-1 group-title="The.Pitt" tvg-logo="https://tu.moduzytupian.com/upload/vod/20250110-2/c29fceef1daa9e7612321fdd50d04dfa.jpg",Ep08
+https://play.modujx11.com/20250221/bbyToygn/index.m3u8
+
+#EXTINF:-1 group-title="The.Pitt" tvg-logo="https://tu.moduzytupian.com/upload/vod/20250110-2/c29fceef1daa9e7612321fdd50d04dfa.jpg",Ep09
+https://play.modujx11.com/20250228/eeru76HC/index.m3u8
+
+#EXTINF:-1 group-title="The.Pitt" tvg-logo="https://tu.moduzytupian.com/upload/vod/20250110-2/c29fceef1daa9e7612321fdd50d04dfa.jpg",Ep10
+https://play.modujx11.com/20250307/wfgrVhAy/index.m3u8
+
+#EXTINF:-1 group-title="The.Pitt" tvg-logo="https://tu.moduzytupian.com/upload/vod/20250110-2/c29fceef1daa9e7612321fdd50d04dfa.jpg",Ep11
+https://play.modujx11.com/20250314/aVfJJf8o/index.m3u8
+
+#EXTINF:-1 group-title="The.Pitt" tvg-logo="https://tu.moduzytupian.com/upload/vod/20250110-2/c29fceef1daa9e7612321fdd50d04dfa.jpg",Ep12
+https://play.modujx11.com/20250328/1eJzymAa/index.m3u8
+
+#EXTINF:-1 group-title="The.Pitt" tvg-logo="https://tu.moduzytupian.com/upload/vod/20250110-2/c29fceef1daa9e7612321fdd50d04dfa.jpg",Ep13
+https://play.modujx11.com/20250328/9wllZ8jh/index.m3u8
+
+#EXTINF:-1 group-title="The.Pitt" tvg-logo="https://tu.moduzytupian.com/upload/vod/20250110-2/c29fceef1daa9e7612321fdd50d04dfa.jpg",Ep14
+https://play.modujx11.com/20250404/gcRNVP2r/index.m3u8
+
+#EXTINF:-1 group-title="The.Pitt" tvg-logo="https://tu.moduzytupian.com/upload/vod/20250110-2/c29fceef1daa9e7612321fdd50d04dfa.jpg",Ep15
+https://play.modujx11.com/20250411/Od3sjMpN/index.m3u8
+
+
+#EXTINF:-1 group-title="Reacher_S01" tvg-logo="https://tu.moduzytupian.com/upload/vod/20240627-1/d80e01d84750bde39253246708d7c73d.jpg",Ep01
+https://play.modujx12.com/20240626/X0vrDHNs/index.m3u8
+
+#EXTINF:-1 group-title="Reacher_S01" tvg-logo="https://tu.moduzytupian.com/upload/vod/20240627-1/d80e01d84750bde39253246708d7c73d.jpg",Ep02
+https://play.modujx12.com/20240626/KS7ybUjH/index.m3u8
+
+#EXTINF:-1 group-title="Reacher_S01" tvg-logo="https://tu.moduzytupian.com/upload/vod/20240627-1/d80e01d84750bde39253246708d7c73d.jpg",Ep03
+https://play.modujx12.com/20240626/WUr5xbis/index.m3u8
+
+#EXTINF:-1 group-title="Reacher_S01" tvg-logo="https://tu.moduzytupian.com/upload/vod/20240627-1/d80e01d84750bde39253246708d7c73d.jpg",Ep04
+https://play.modujx12.com/20240626/YfjMZkXW/index.m3u8
+
+#EXTINF:-1 group-title="Reacher_S01" tvg-logo="https://tu.moduzytupian.com/upload/vod/20240627-1/d80e01d84750bde39253246708d7c73d.jpg",Ep05
+https://play.modujx12.com/20240626/o7Rd9GEy/index.m3u8
+
+#EXTINF:-1 group-title="Reacher_S01" tvg-logo="https://tu.moduzytupian.com/upload/vod/20240627-1/d80e01d84750bde39253246708d7c73d.jpg",Ep06
+https://play.modujx12.com/20240626/C4Hi8lbf/index.m3u8
+
+#EXTINF:-1 group-title="Reacher_S01" tvg-logo="https://tu.moduzytupian.com/upload/vod/20240627-1/d80e01d84750bde39253246708d7c73d.jpg",Ep07
+https://play.modujx12.com/20240626/yfffqskp/index.m3u8
+
+#EXTINF:-1 group-title="Reacher_S01" tvg-logo="https://tu.moduzytupian.com/upload/vod/20240627-1/d80e01d84750bde39253246708d7c73d.jpg",Ep08
+https://play.modujx12.com/20240626/U7coEFQG/index.m3u8
+
+
+#EXTINF:-1 group-title="Woo" tvg-logo="https://ry-pic.com/upload/vod/20240925-1/3ef08626ec1066cf8afab514ad322ecd.jpg",Ep01
+https://cdn8.ryplay8.com/20240923/6338_1171c55c/index.m3u8
+
+#EXTINF:-1 group-title="Woo" tvg-logo="https://ry-pic.com/upload/vod/20240925-1/3ef08626ec1066cf8afab514ad322ecd.jpg",Ep02
+https://cdn8.ryplay8.com/20240923/6348_0a31e6d1/index.m3u8
+
+#EXTINF:-1 group-title="Woo" tvg-logo="https://ry-pic.com/upload/vod/20240925-1/3ef08626ec1066cf8afab514ad322ecd.jpg",Ep03
+https://cdn8.ryplay8.com/20240923/6359_e70e77a8/index.m3u8
+
+#EXTINF:-1 group-title="Woo" tvg-logo="https://ry-pic.com/upload/vod/20240925-1/3ef08626ec1066cf8afab514ad322ecd.jpg",Ep04
+https://cdn8.ryplay8.com/20240923/6368_3179c6e3/index.m3u8
+
+#EXTINF:-1 group-title="Woo" tvg-logo="https://ry-pic.com/upload/vod/20240925-1/3ef08626ec1066cf8afab514ad322ecd.jpg",Ep05
+https://cdn8.ryplay8.com/20240923/6378_8b2b36fb/index.m3u8
+
+#EXTINF:-1 group-title="Woo" tvg-logo="https://ry-pic.com/upload/vod/20240925-1/3ef08626ec1066cf8afab514ad322ecd.jpg",Ep06
+https://cdn8.ryplay8.com/20240923/6389_aac03468/index.m3u8
+
+#EXTINF:-1 group-title="Woo" tvg-logo="https://ry-pic.com/upload/vod/20240925-1/3ef08626ec1066cf8afab514ad322ecd.jpg",Ep07
+https://cdn8.ryplay8.com/20240923/6390_6efc76e3/index.m3u8
+
+#EXTINF:-1 group-title="Woo" tvg-logo="https://ry-pic.com/upload/vod/20240925-1/3ef08626ec1066cf8afab514ad322ecd.jpg",Ep08
+https://cdn8.ryplay8.com/20240923/6403_f08d79c1/index.m3u8
+
+#EXTINF:-1 group-title="Woo" tvg-logo="https://ry-pic.com/upload/vod/20240925-1/3ef08626ec1066cf8afab514ad322ecd.jpg",Ep09
+https://cdn8.ryplay8.com/20240923/6404_3c74a6ef/index.m3u8
+
+#EXTINF:-1 group-title="Woo" tvg-logo="https://ry-pic.com/upload/vod/20240925-1/3ef08626ec1066cf8afab514ad322ecd.jpg",Ep10
+https://cdn8.ryplay8.com/20240923/6410_0bb72013/index.m3u8
+
+#EXTINF:-1 group-title="Woo" tvg-logo="https://ry-pic.com/upload/vod/20240925-1/3ef08626ec1066cf8afab514ad322ecd.jpg",Ep11
+https://cdn8.ryplay8.com/20240923/6416_c5f1fa67/index.m3u8
+
+#EXTINF:-1 group-title="Woo" tvg-logo="https://ry-pic.com/upload/vod/20240925-1/3ef08626ec1066cf8afab514ad322ecd.jpg",Ep12
+https://cdn8.ryplay8.com/20240923/6422_2d8cd263/index.m3u8
+
+#EXTINF:-1 group-title="Woo" tvg-logo="https://ry-pic.com/upload/vod/20240925-1/3ef08626ec1066cf8afab514ad322ecd.jpg",Ep13
+https://cdn8.ryplay8.com/20240923/6417_496851f1/index.m3u8
+
+#EXTINF:-1 group-title="Woo" tvg-logo="https://ry-pic.com/upload/vod/20240925-1/3ef08626ec1066cf8afab514ad322ecd.jpg",Ep14
+https://cdn8.ryplay8.com/20240923/6424_dad9b7f7/index.m3u8
+
+#EXTINF:-1 group-title="Woo" tvg-logo="https://ry-pic.com/upload/vod/20240925-1/3ef08626ec1066cf8afab514ad322ecd.jpg",Ep15
+https://cdn8.ryplay8.com/20240923/6423_01088226/index.m3u8
+
+#EXTINF:-1 group-title="Woo" tvg-logo="https://ry-pic.com/upload/vod/20240925-1/3ef08626ec1066cf8afab514ad322ecd.jpg",Ep16
+https://cdn8.ryplay8.com/20240923/6425_596227a5/index.m3u8
+
+#EXTINF:-1 group-title="SweetHome_S01" tvg-logo="https://ry-pic.com/upload/vod/20240916-1/5c28d8b57867c28b235b3cc04da67d4e.jpg",Ep01
+https://cdn6.ryplay6.com/20240912/14920_34304fb2/index.m3u8
+
+#EXTINF:-1 group-title="SweetHome_S01" tvg-logo="https://ry-pic.com/upload/vod/20240916-1/5c28d8b57867c28b235b3cc04da67d4e.jpg",Ep02
+https://cdn6.ryplay6.com/20240912/14922_27aef380/index.m3u8
+
+#EXTINF:-1 group-title="SweetHome_S01" tvg-logo="https://ry-pic.com/upload/vod/20240916-1/5c28d8b57867c28b235b3cc04da67d4e.jpg",Ep03
+https://cdn6.ryplay6.com/20240912/14926_26556471/index.m3u8
+
+#EXTINF:-1 group-title="SweetHome_S01" tvg-logo="https://ry-pic.com/upload/vod/20240916-1/5c28d8b57867c28b235b3cc04da67d4e.jpg",Ep04
+https://cdn6.ryplay6.com/20240912/14932_52bbf817/index.m3u8
+
+#EXTINF:-1 group-title="SweetHome_S01" tvg-logo="https://ry-pic.com/upload/vod/20240916-1/5c28d8b57867c28b235b3cc04da67d4e.jpg",Ep05
+https://cdn6.ryplay6.com/20240912/14933_b0440bb8/index.m3u8
+
+#EXTINF:-1 group-title="SweetHome_S01" tvg-logo="https://ry-pic.com/upload/vod/20240916-1/5c28d8b57867c28b235b3cc04da67d4e.jpg",Ep06
+https://cdn6.ryplay6.com/20240912/14937_88ae6cc2/index.m3u8
+
+#EXTINF:-1 group-title="SweetHome_S01" tvg-logo="https://ry-pic.com/upload/vod/20240916-1/5c28d8b57867c28b235b3cc04da67d4e.jpg",Ep07
+https://cdn6.ryplay6.com/20240912/14941_a37788b7/index.m3u8
+
+#EXTINF:-1 group-title="SweetHome_S01" tvg-logo="https://ry-pic.com/upload/vod/20240916-1/5c28d8b57867c28b235b3cc04da67d4e.jpg",Ep08
+https://cdn6.ryplay6.com/20240912/14940_d930568f/index.m3u8
+
+#EXTINF:-1 group-title="SweetHome_S01" tvg-logo="https://ry-pic.com/upload/vod/20240916-1/5c28d8b57867c28b235b3cc04da67d4e.jpg",Ep09
+https://cdn6.ryplay6.com/20240912/14947_8c824702/index.m3u8
+
+#EXTINF:-1 group-title="SweetHome_S01" tvg-logo="https://ry-pic.com/upload/vod/20240916-1/5c28d8b57867c28b235b3cc04da67d4e.jpg",Ep10
+https://cdn6.ryplay6.com/20240912/14950_da6c5d00/index.m3u8
+
+#EXTINF:-1 group-title="StrangThings_S05" tvg-logo="https://ps.ryzypics.com/upload/vod/20251127-1/654a423899d59976fa907779b89de1e6.webp",Ep01
+https://svip.ryplay14.com/20251127/13024_e5cfe711/index.m3u8
+
+#EXTINF:-1 group-title="StrangThings_S05" tvg-logo="https://ps.ryzypics.com/upload/vod/20251127-1/654a423899d59976fa907779b89de1e6.webp",Ep02
+https://svip.ryplay14.com/20251127/13025_acd3b81a/index.m3u8
+
+#EXTINF:-1 group-title="StrangThings_S05" tvg-logo="https://ps.ryzypics.com/upload/vod/20251127-1/654a423899d59976fa907779b89de1e6.webp",Ep03
+https://svip.ryplay14.com/20251127/13026_dd9969e0/index.m3u8
+
+#EXTINF:-1 group-title="StrangThings_S05" tvg-logo="https://ps.ryzypics.com/upload/vod/20251127-1/654a423899d59976fa907779b89de1e6.webp",Ep04
+https://svip.ryplay14.com/20251127/13027_565c9042/index.m3u8
+
+#EXTINF:-1 group-title="StrangThings_S05" tvg-logo="https://ps.ryzypics.com/upload/vod/20251127-1/654a423899d59976fa907779b89de1e6.webp",Ep05
+https://svip.ryplay14.com/20251226/13887_37e27322/index.m3u8
+
+#EXTINF:-1 group-title="StrangThings_S05" tvg-logo="https://ps.ryzypics.com/upload/vod/20251127-1/654a423899d59976fa907779b89de1e6.webp",Ep06
+https://svip.ryplay14.com/20251226/13888_02ecd689/index.m3u8
+
+#EXTINF:-1 group-title="StrangThings_S05" tvg-logo="https://ps.ryzypics.com/upload/vod/20251127-1/654a423899d59976fa907779b89de1e6.webp",Ep07
+https://svip.ryplay14.com/20251226/13889_623b98b8/index.m3u8
+
+#EXTINF:-1 group-title="StrangThings_S05" tvg-logo="https://ps.ryzypics.com/upload/vod/20251127-1/654a423899d59976fa907779b89de1e6.webp",Ep08
+https://svip.ryplay14.com/20260101/13981_11ff2488/index.m3u8
+
+#EXTINF:-1 group-title="Forever" tvg-logo="https://ps.ryzypics.com/upload/vod/20250310-1/3dcc129b72c75e9ebc5d8085c8bcb3a4.webp",Ep01
+https://svip.ryplay14.com/20250310/3969_4b358c98/index.m3u8
+
+#EXTINF:-1 group-title="Forever" tvg-logo="https://ps.ryzypics.com/upload/vod/20250310-1/3dcc129b72c75e9ebc5d8085c8bcb3a4.webp",Ep02
+https://svip.ryplay14.com/20250310/3971_8291f2eb/index.m3u8
+
+#EXTINF:-1 group-title="Forever" tvg-logo="https://ps.ryzypics.com/upload/vod/20250310-1/3dcc129b72c75e9ebc5d8085c8bcb3a4.webp",Ep03
+https://svip.ryplay14.com/20250310/3970_c6f6dbd9/index.m3u8
+
+#EXTINF:-1 group-title="Forever" tvg-logo="https://ps.ryzypics.com/upload/vod/20250310-1/3dcc129b72c75e9ebc5d8085c8bcb3a4.webp",Ep04
+https://svip.ryplay14.com/20250310/3972_f67a1853/index.m3u8
+
+#EXTINF:-1 group-title="Forever" tvg-logo="https://ps.ryzypics.com/upload/vod/20250310-1/3dcc129b72c75e9ebc5d8085c8bcb3a4.webp",Ep05
+https://svip.ryplay14.com/20250310/3973_351f42a3/index.m3u8
+
+#EXTINF:-1 group-title="Forever" tvg-logo="https://ps.ryzypics.com/upload/vod/20250310-1/3dcc129b72c75e9ebc5d8085c8bcb3a4.webp",Ep06
+https://svip.ryplay14.com/20250310/3974_05c927ae/index.m3u8
+
+#EXTINF:-1 group-title="Forever" tvg-logo="https://ps.ryzypics.com/upload/vod/20250310-1/3dcc129b72c75e9ebc5d8085c8bcb3a4.webp",Ep07
+https://svip.ryplay14.com/20250310/3975_c84ae71f/index.m3u8
+
+#EXTINF:-1 group-title="Forever" tvg-logo="https://ps.ryzypics.com/upload/vod/20250310-1/3dcc129b72c75e9ebc5d8085c8bcb3a4.webp",Ep08
+https://svip.ryplay14.com/20250310/3976_e2e72f41/index.m3u8
+
+#EXTINF:-1 group-title="Forever" tvg-logo="https://ps.ryzypics.com/upload/vod/20250310-1/3dcc129b72c75e9ebc5d8085c8bcb3a4.webp",Ep09
+https://svip.ryplay14.com/20250310/3977_9ac60a44/index.m3u8
+
+#EXTINF:-1 group-title="Forever" tvg-logo="https://ps.ryzypics.com/upload/vod/20250310-1/3dcc129b72c75e9ebc5d8085c8bcb3a4.webp",Ep10
+https://svip.ryplay14.com/20250310/3978_cba3223f/index.m3u8
+
+#EXTINF:-1 group-title="Forever" tvg-logo="https://ps.ryzypics.com/upload/vod/20250310-1/3dcc129b72c75e9ebc5d8085c8bcb3a4.webp",Ep11
+https://svip.ryplay14.com/20250310/3979_44a76db5/index.m3u8
+
+#EXTINF:-1 group-title="Forever" tvg-logo="https://ps.ryzypics.com/upload/vod/20250310-1/3dcc129b72c75e9ebc5d8085c8bcb3a4.webp",Ep12
+https://svip.ryplay14.com/20250310/3980_23cb9681/index.m3u8
+
+#EXTINF:-1 group-title="Forever" tvg-logo="https://ps.ryzypics.com/upload/vod/20250310-1/3dcc129b72c75e9ebc5d8085c8bcb3a4.webp",Ep13
+https://svip.ryplay14.com/20250310/3981_2242cd6e/index.m3u8
+
+#EXTINF:-1 group-title="Forever" tvg-logo="https://ps.ryzypics.com/upload/vod/20250310-1/3dcc129b72c75e9ebc5d8085c8bcb3a4.webp",Ep14
+https://svip.ryplay14.com/20250310/3982_2b4b15ea/index.m3u8
+
+#EXTINF:-1 group-title="Forever" tvg-logo="https://ps.ryzypics.com/upload/vod/20250310-1/3dcc129b72c75e9ebc5d8085c8bcb3a4.webp",Ep15
+https://svip.ryplay14.com/20250310/3983_2dc4b746/index.m3u8
+
+#EXTINF:-1 group-title="Forever" tvg-logo="https://ps.ryzypics.com/upload/vod/20250310-1/3dcc129b72c75e9ebc5d8085c8bcb3a4.webp",Ep16
+https://svip.ryplay14.com/20250310/3984_51c17332/index.m3u8
+
+#EXTINF:-1 group-title="Forever" tvg-logo="https://ps.ryzypics.com/upload/vod/20250310-1/3dcc129b72c75e9ebc5d8085c8bcb3a4.webp",Ep17
+https://svip.ryplay14.com/20250310/3985_804176c4/index.m3u8
+
+#EXTINF:-1 group-title="Forever" tvg-logo="https://ps.ryzypics.com/upload/vod/20250310-1/3dcc129b72c75e9ebc5d8085c8bcb3a4.webp",Ep18
+https://svip.ryplay14.com/20250310/3986_bb2d1258/index.m3u8
+
+#EXTINF:-1 group-title="Forever" tvg-logo="https://ps.ryzypics.com/upload/vod/20250310-1/3dcc129b72c75e9ebc5d8085c8bcb3a4.webp",Ep19
+https://svip.ryplay14.com/20250310/3987_0e2b4b2c/index.m3u8
+
+#EXTINF:-1 group-title="Forever" tvg-logo="https://ps.ryzypics.com/upload/vod/20250310-1/3dcc129b72c75e9ebc5d8085c8bcb3a4.webp",Ep20
+https://svip.ryplay14.com/20250310/3988_ef78a115/index.m3u8
+
+#EXTINF:-1 group-title="Forever" tvg-logo="https://ps.ryzypics.com/upload/vod/20250310-1/3dcc129b72c75e9ebc5d8085c8bcb3a4.webp",Ep21
+https://svip.ryplay14.com/20250310/3989_624e4890/index.m3u8
+
+#EXTINF:-1 group-title="Forever" tvg-logo="https://ps.ryzypics.com/upload/vod/20250310-1/3dcc129b72c75e9ebc5d8085c8bcb3a4.webp",Ep22
+https://svip.ryplay14.com/20250310/3990_6abebcf5/index.m3u8
+
+
+#EXTINF:-1 group-title="Trauma_code" tvg-logo="https://ps.ryzypics.com/upload/vod/20250125-1/5ef9d464e81fec37fe7fe6c7a2c7ec52.webp",Ep01
+https://bfikuncdn.com/20250124/rzQNdaXN/index.m3u8
+
+#EXTINF:-1 group-title="Trauma_code" tvg-logo="https://ps.ryzypics.com/upload/vod/20250125-1/5ef9d464e81fec37fe7fe6c7a2c7ec52.webp",Ep02
+https://bfikuncdn.com/20250124/5Zt5ysFn/index.m3u8
+
+#EXTINF:-1 group-title="Trauma_code" tvg-logo="https://ps.ryzypics.com/upload/vod/20250125-1/5ef9d464e81fec37fe7fe6c7a2c7ec52.webp",Ep03
+https://bfikuncdn.com/20250124/k9dDodas/index.m3u8
+
+#EXTINF:-1 group-title="Trauma_code" tvg-logo="https://ps.ryzypics.com/upload/vod/20250125-1/5ef9d464e81fec37fe7fe6c7a2c7ec52.webp",Ep04
+https://bfikuncdn.com/20250124/3fDFNwdu/index.m3u8
+
+#EXTINF:-1 group-title="Trauma_code" tvg-logo="https://ps.ryzypics.com/upload/vod/20250125-1/5ef9d464e81fec37fe7fe6c7a2c7ec52.webp",Ep05
+https://bfikuncdn.com/20250124/o36O9L7d/index.m3u8
+
+#EXTINF:-1 group-title="Trauma_code" tvg-logo="https://ps.ryzypics.com/upload/vod/20250125-1/5ef9d464e81fec37fe7fe6c7a2c7ec52.webp",Ep06
+https://bfikuncdn.com/20250124/CAyfvKBF/index.m3u8
+
+#EXTINF:-1 group-title="Trauma_code" tvg-logo="https://ps.ryzypics.com/upload/vod/20250125-1/5ef9d464e81fec37fe7fe6c7a2c7ec52.webp",Ep07
+https://bfikuncdn.com/20250124/vNZ8HNFq/index.m3u8
+
+#EXTINF:-1 group-title="Trauma_code" tvg-logo="https://ps.ryzypics.com/upload/vod/20250125-1/5ef9d464e81fec37fe7fe6c7a2c7ec52.webp",Ep08
+https://bfikuncdn.com/20250124/AZX8S5Yu/index.m3u8
+
+
+#EXTINF:-1 group-title="回魂計" tvg-logo="https://ps.ryzypics.com/upload/vod/20251009-1/f106ebe16effeb15d6b190a42a708a64.webp",Ep01
+https://cdn.ryplay11.com/20251009/187511_d3472b61/index.m3u8
+
+#EXTINF:-1 group-title="回魂計" tvg-logo="https://ps.ryzypics.com/upload/vod/20251009-1/f106ebe16effeb15d6b190a42a708a64.webp",Ep02
+https://cdn.ryplay11.com/20251009/187510_e2c96eb4/index.m3u8
+
+#EXTINF:-1 group-title="回魂計" tvg-logo="https://ps.ryzypics.com/upload/vod/20251009-1/f106ebe16effeb15d6b190a42a708a64.webp",Ep03
+https://cdn.ryplay11.com/20251009/187509_ff49745c/index.m3u8
+
+#EXTINF:-1 group-title="回魂計" tvg-logo="https://ps.ryzypics.com/upload/vod/20251009-1/f106ebe16effeb15d6b190a42a708a64.webp",Ep04
+https://cdn.ryplay11.com/20251009/187508_6274fb09/index.m3u8
+
+#EXTINF:-1 group-title="回魂計" tvg-logo="https://ps.ryzypics.com/upload/vod/20251009-1/f106ebe16effeb15d6b190a42a708a64.webp",Ep05
+https://cdn.ryplay11.com/20251009/187507_296b09ef/index.m3u8
+
+#EXTINF:-1 group-title="回魂計" tvg-logo="https://ps.ryzypics.com/upload/vod/20251009-1/f106ebe16effeb15d6b190a42a708a64.webp",Ep06
+https://cdn.ryplay11.com/20251009/187506_a61e1a9a/index.m3u8
+
+#EXTINF:-1 group-title="回魂計" tvg-logo="https://ps.ryzypics.com/upload/vod/20251009-1/f106ebe16effeb15d6b190a42a708a64.webp",Ep07
+https://cdn.ryplay11.com/20251009/187505_e6a30829/index.m3u8
+
+#EXTINF:-1 group-title="回魂計" tvg-logo="https://ps.ryzypics.com/upload/vod/20251009-1/f106ebe16effeb15d6b190a42a708a64.webp",Ep08
+https://cdn.ryplay11.com/20251009/187504_935877de/index.m3u8
+
+#EXTINF:-1 group-title="回魂計" tvg-logo="https://ps.ryzypics.com/upload/vod/20251009-1/f106ebe16effeb15d6b190a42a708a64.webp",Ep09
+https://cdn.ryplay11.com/20251009/187503_76b269d4/index.m3u8
+
+#EXTINF:-1 group-title="月刊家" tvg-logo="https://tu.moduzytupian.com/upload/vod/20240809-1/41d05a33440f075960277a8158c98982.jpg",Ep01
+https://play.modujx14.com/20240808/bfUGw4Xv/index.m3u8
+
+#EXTINF:-1 group-title="月刊家" tvg-logo="https://tu.moduzytupian.com/upload/vod/20240809-1/41d05a33440f075960277a8158c98982.jpg",Ep02
+https://play.modujx14.com/20240808/abYWTCXI/index.m3u8
+
+#EXTINF:-1 group-title="月刊家" tvg-logo="https://tu.moduzytupian.com/upload/vod/20240809-1/41d05a33440f075960277a8158c98982.jpg",Ep03
+https://play.modujx14.com/20240808/YSBfEU9c/index.m3u8
+
+#EXTINF:-1 group-title="月刊家" tvg-logo="https://tu.moduzytupian.com/upload/vod/20240809-1/41d05a33440f075960277a8158c98982.jpg",Ep04
+https://play.modujx14.com/20240808/kVMmY3tu/index.m3u8
+
+#EXTINF:-1 group-title="月刊家" tvg-logo="https://tu.moduzytupian.com/upload/vod/20240809-1/41d05a33440f075960277a8158c98982.jpg",Ep05
+https://play.modujx14.com/20240808/2piBv20q/index.m3u8
+
+#EXTINF:-1 group-title="月刊家" tvg-logo="https://tu.moduzytupian.com/upload/vod/20240809-1/41d05a33440f075960277a8158c98982.jpg",Ep06
+https://play.modujx14.com/20240808/Wnw6WZJp/index.m3u8
+
+#EXTINF:-1 group-title="月刊家" tvg-logo="https://tu.moduzytupian.com/upload/vod/20240809-1/41d05a33440f075960277a8158c98982.jpg",Ep07
+https://play.modujx14.com/20240808/64nnMDQJ/index.m3u8
+
+#EXTINF:-1 group-title="月刊家" tvg-logo="https://tu.moduzytupian.com/upload/vod/20240809-1/41d05a33440f075960277a8158c98982.jpg",Ep08
+https://play.modujx14.com/20240808/DvFMTYve/index.m3u8
+
+#EXTINF:-1 group-title="月刊家" tvg-logo="https://tu.moduzytupian.com/upload/vod/20240809-1/41d05a33440f075960277a8158c98982.jpg",Ep09
+https://play.modujx14.com/20240808/q7sbEQvh/index.m3u8
+
+#EXTINF:-1 group-title="月刊家" tvg-logo="https://tu.moduzytupian.com/upload/vod/20240809-1/41d05a33440f075960277a8158c98982.jpg",Ep10
+https://play.modujx14.com/20240808/fhbAT1Iq/index.m3u8
+
+#EXTINF:-1 group-title="月刊家" tvg-logo="https://tu.moduzytupian.com/upload/vod/20240809-1/41d05a33440f075960277a8158c98982.jpg",Ep11
+https://play.modujx14.com/20240808/za8SJURC/index.m3u8
+
+#EXTINF:-1 group-title="月刊家" tvg-logo="https://tu.moduzytupian.com/upload/vod/20240809-1/41d05a33440f075960277a8158c98982.jpg",Ep12
+https://play.modujx14.com/20240808/vzZ3rGpW/index.m3u8
+
+#EXTINF:-1 group-title="月刊家" tvg-logo="https://tu.moduzytupian.com/upload/vod/20240809-1/41d05a33440f075960277a8158c98982.jpg",Ep13
+https://play.modujx14.com/20240808/brS2yaMO/index.m3u8
+
+#EXTINF:-1 group-title="月刊家" tvg-logo="https://tu.moduzytupian.com/upload/vod/20240809-1/41d05a33440f075960277a8158c98982.jpg",Ep14
+https://play.modujx14.com/20240808/oU1wYxyV/index.m3u8
+
+#EXTINF:-1 group-title="月刊家" tvg-logo="https://tu.moduzytupian.com/upload/vod/20240809-1/41d05a33440f075960277a8158c98982.jpg",Ep15
+https://play.modujx14.com/20240808/BvuePcp4/index.m3u8
+
+#EXTINF:-1 group-title="月刊家" tvg-logo="https://tu.moduzytupian.com/upload/vod/20240809-1/41d05a33440f075960277a8158c98982.jpg",Ep16
+https://play.modujx14.com/20240808/Xkckalmh/index.m3u8
+
+#EXTINF:-1 group-title="機智住院醫生生活" tvg-logo="https://ynztctv.com/upload/vod/20250412-1/6e6d8c0573383a5eb4db5ab58bccdfcc.jpg",Ep01
+https://bfikuncdn.com/20250412/G6Czkyv7/index.m3u8
+
+#EXTINF:-1 group-title="機智住院醫生生活" tvg-logo="https://ynztctv.com/upload/vod/20250412-1/6e6d8c0573383a5eb4db5ab58bccdfcc.jpg",Ep02
+https://bfikuncdn.com/20250413/x6CgDi6l/index.m3u8
+
+#EXTINF:-1 group-title="機智住院醫生生活" tvg-logo="https://ynztctv.com/upload/vod/20250412-1/6e6d8c0573383a5eb4db5ab58bccdfcc.jpg",Ep03
+https://bfikuncdn.com/20250419/1QFM4rxJ/index.m3u8
+
+#EXTINF:-1 group-title="機智住院醫生生活" tvg-logo="https://ynztctv.com/upload/vod/20250412-1/6e6d8c0573383a5eb4db5ab58bccdfcc.jpg",Ep04
+https://bfikuncdn.com/20250420/b0QhP8i8/index.m3u8
+
+#EXTINF:-1 group-title="機智住院醫生生活" tvg-logo="https://ynztctv.com/upload/vod/20250412-1/6e6d8c0573383a5eb4db5ab58bccdfcc.jpg",Ep05
+https://bfikuncdn.com/20250426/MSQrOVz0/index.m3u8
+
+#EXTINF:-1 group-title="機智住院醫生生活" tvg-logo="https://ynztctv.com/upload/vod/20250412-1/6e6d8c0573383a5eb4db5ab58bccdfcc.jpg",Ep06
+https://bfikuncdn.com/20250427/5f20fyRh/index.m3u8
+
+#EXTINF:-1 group-title="機智住院醫生生活" tvg-logo="https://ynztctv.com/upload/vod/20250412-1/6e6d8c0573383a5eb4db5ab58bccdfcc.jpg",Ep07
+https://bfikuncdn.com/20250503/icLUGsc2/index.m3u8
+
+#EXTINF:-1 group-title="機智住院醫生生活" tvg-logo="https://ynztctv.com/upload/vod/20250412-1/6e6d8c0573383a5eb4db5ab58bccdfcc.jpg",Ep08
+https://bfikuncdn.com/20250504/e4oDTU06/index.m3u8
+
+#EXTINF:-1 group-title="機智住院醫生生活" tvg-logo="https://ynztctv.com/upload/vod/20250412-1/6e6d8c0573383a5eb4db5ab58bccdfcc.jpg",Ep09
+https://bfikuncdn.com/20250510/c0jCir3s/index.m3u8
+
+#EXTINF:-1 group-title="機智住院醫生生活" tvg-logo="https://ynztctv.com/upload/vod/20250412-1/6e6d8c0573383a5eb4db5ab58bccdfcc.jpg",Ep10
+https://bfikuncdn.com/20250511/xyCAMDb0/index.m3u8
+
+#EXTINF:-1 group-title="機智住院醫生生活" tvg-logo="https://ynztctv.com/upload/vod/20250412-1/6e6d8c0573383a5eb4db5ab58bccdfcc.jpg",Ep11
+https://bfikuncdn.com/20250517/ZNhXdut2/index.m3u8
+
+#EXTINF:-1 group-title="機智住院醫生生活" tvg-logo="https://ynztctv.com/upload/vod/20250412-1/6e6d8c0573383a5eb4db5ab58bccdfcc.jpg",Ep12
+https://bfikuncdn.com/20250518/Te2KamII/index.m3u8
+
+
+#EXTINF:-1 group-title="Last_S02" tvg-logo="https://tu.moduzytupian.com/upload/vod/20250414-1/9df0c2d106b71fd50e1dbf2e78331ca7.jpg",Ep01
+https://play.modujx11.com/20250414/EsVrQ4FU/index.m3u8
+
+#EXTINF:-1 group-title="Last_S02" tvg-logo="https://tu.moduzytupian.com/upload/vod/20250414-1/9df0c2d106b71fd50e1dbf2e78331ca7.jpg",Ep02
+https://play.modujx11.com/20250421/wuKTosLg/index.m3u8
+
+#EXTINF:-1 group-title="Last_S02" tvg-logo="https://tu.moduzytupian.com/upload/vod/20250414-1/9df0c2d106b71fd50e1dbf2e78331ca7.jpg",Ep03
+https://play.modujx11.com/20250428/XjpQuCfL/index.m3u8
+
+#EXTINF:-1 group-title="Last_S02" tvg-logo="https://tu.moduzytupian.com/upload/vod/20250414-1/9df0c2d106b71fd50e1dbf2e78331ca7.jpg",Ep04
+https://play.modujx11.com/20250505/hFc6BB2P/index.m3u8
+
+#EXTINF:-1 group-title="Last_S02" tvg-logo="https://tu.moduzytupian.com/upload/vod/20250414-1/9df0c2d106b71fd50e1dbf2e78331ca7.jpg",Ep05
+https://play.modujx11.com/20250512/sgHyf8RM/index.m3u8
+
+#EXTINF:-1 group-title="Last_S02" tvg-logo="https://tu.moduzytupian.com/upload/vod/20250414-1/9df0c2d106b71fd50e1dbf2e78331ca7.jpg",Ep06
+https://play.modujx11.com/20250519/vIv2JoNN/index.m3u8
+
+#EXTINF:-1 group-title="Last_S02" tvg-logo="https://tu.moduzytupian.com/upload/vod/20250414-1/9df0c2d106b71fd50e1dbf2e78331ca7.jpg",Ep07
+https://play.modujx11.com/20250526/Mjgm4VC0/index.m3u8
+
+#EXTINF:-1 group-title="照明商店" tvg-logo="https://tu.moduzytupian.com/upload/vod/20241204-13/b6478c0ae40edd07e3576d5e05a7e69a.jpg",Ep01
+https://play.modujx16.com/20241204/dvljqY4Z/index.m3u8
+
+#EXTINF:-1 group-title="照明商店" tvg-logo="https://tu.moduzytupian.com/upload/vod/20241204-13/b6478c0ae40edd07e3576d5e05a7e69a.jpg",Ep02
+https://play.modujx16.com/20241204/cNtxwitA/index.m3u8
+
+#EXTINF:-1 group-title="照明商店" tvg-logo="https://tu.moduzytupian.com/upload/vod/20241204-13/b6478c0ae40edd07e3576d5e05a7e69a.jpg",Ep03
+https://play.modujx16.com/20241204/EcLwG8Zk/index.m3u8
+
+#EXTINF:-1 group-title="照明商店" tvg-logo="https://tu.moduzytupian.com/upload/vod/20241204-13/b6478c0ae40edd07e3576d5e05a7e69a.jpg",Ep04
+https://play.modujx16.com/20241204/3gqQEH4o/index.m3u8
+
+#EXTINF:-1 group-title="照明商店" tvg-logo="https://tu.moduzytupian.com/upload/vod/20241204-13/b6478c0ae40edd07e3576d5e05a7e69a.jpg",Ep05
+https://play.modujx16.com/20241211/xVCVAvG3/index.m3u8
+
+#EXTINF:-1 group-title="照明商店" tvg-logo="https://tu.moduzytupian.com/upload/vod/20241204-13/b6478c0ae40edd07e3576d5e05a7e69a.jpg",Ep06
+https://play.modujx16.com/20241211/JxD1HQsF/index.m3u8
+
+#EXTINF:-1 group-title="照明商店" tvg-logo="https://tu.moduzytupian.com/upload/vod/20241204-13/b6478c0ae40edd07e3576d5e05a7e69a.jpg",Ep07
+https://play.modujx16.com/20241218/0uUnMaqW/index.m3u8
+
+#EXTINF:-1 group-title="照明商店" tvg-logo="https://tu.moduzytupian.com/upload/vod/20241204-13/b6478c0ae40edd07e3576d5e05a7e69a.jpg",Ep08
+https://play.modujx16.com/20241218/buNkEvXC/index.m3u8
+
+
+
+#EXTINF:-1 group-title="愛的迫降" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/cb/Crash_Landing_on_You.png",Ep01
+https://play.modujx14.com/20240805/U9Mj7gUV/index.m3u8
+
+#EXTINF:-1 group-title="愛的迫降" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/cb/Crash_Landing_on_You.png",Ep02
+https://play.modujx14.com/20240805/4Znl4Uo4/index.m3u8
+
+#EXTINF:-1 group-title="愛的迫降" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/cb/Crash_Landing_on_You.png",Ep03
+https://play.modujx14.com/20240805/vg4NKfQk/index.m3u8
+
+#EXTINF:-1 group-title="愛的迫降" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/cb/Crash_Landing_on_You.png",Ep04
+https://play.modujx14.com/20240805/txLRRU6u/index.m3u8
+
+#EXTINF:-1 group-title="愛的迫降" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/cb/Crash_Landing_on_You.png",Ep05
+https://play.modujx14.com/20240805/duM6IU7N/index.m3u8
+
+#EXTINF:-1 group-title="愛的迫降" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/cb/Crash_Landing_on_You.png",Ep06
+https://play.modujx14.com/20240805/Wnu80ttB/index.m3u8
+
+#EXTINF:-1 group-title="愛的迫降" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/cb/Crash_Landing_on_You.png",Ep07
+https://play.modujx14.com/20240805/sCOBeqj7/index.m3u8
+
+#EXTINF:-1 group-title="愛的迫降" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/cb/Crash_Landing_on_You.png",Ep08
+https://play.modujx14.com/20240805/waA7izgd/index.m3u8
+
+#EXTINF:-1 group-title="愛的迫降" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/cb/Crash_Landing_on_You.png",Ep09
+https://play.modujx14.com/20240805/Z0jD78Rb/index.m3u8
+
+#EXTINF:-1 group-title="愛的迫降" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/cb/Crash_Landing_on_You.png",Ep10
+https://play.modujx14.com/20240805/zdgciDky/index.m3u8
+
+#EXTINF:-1 group-title="愛的迫降" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/cb/Crash_Landing_on_You.png",Ep11
+https://play.modujx14.com/20240805/jfG9FanD/index.m3u8
+
+#EXTINF:-1 group-title="愛的迫降" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/cb/Crash_Landing_on_You.png",Ep12
+https://play.modujx14.com/20240805/WF04ykQH/index.m3u8
+
+#EXTINF:-1 group-title="愛的迫降" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/cb/Crash_Landing_on_You.png",Ep13
+https://play.modujx14.com/20240805/RJ7S1TO3/index.m3u8
+
+#EXTINF:-1 group-title="愛的迫降" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/cb/Crash_Landing_on_You.png",Ep14
+https://play.modujx14.com/20240805/GXEJZmuB/index.m3u8
+
+#EXTINF:-1 group-title="愛的迫降" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/cb/Crash_Landing_on_You.png",Ep15
+https://play.modujx14.com/20240805/2vQ2aFjm/index.m3u8
+
+#EXTINF:-1 group-title="愛的迫降" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/cb/Crash_Landing_on_You.png",Ep16
+https://play.modujx14.com/20240805/XMukgrWs/index.m3u8
+
+#EXTINF:-1 group-title="Glory" tvg-logo="https://ry-pic.com/upload/vod/20240824-1/66b0663cdfd31e8fccabb1a8b5fabcb8.jpg",Ep01
+https://cdn2.ryplay2.com/20240823/9883_3ae8193f/index.m3u8
+
+#EXTINF:-1 group-title="Glory" tvg-logo="https://ry-pic.com/upload/vod/20240824-1/66b0663cdfd31e8fccabb1a8b5fabcb8.jpg",Ep02
+https://cdn2.ryplay2.com/20240823/9887_0e7f6e4a/index.m3u8
+
+#EXTINF:-1 group-title="Glory" tvg-logo="https://ry-pic.com/upload/vod/20240824-1/66b0663cdfd31e8fccabb1a8b5fabcb8.jpg",Ep03
+https://cdn2.ryplay2.com/20240823/9892_affd99fc/index.m3u8
+
+#EXTINF:-1 group-title="Glory" tvg-logo="https://ry-pic.com/upload/vod/20240824-1/66b0663cdfd31e8fccabb1a8b5fabcb8.jpg",Ep04
+https://cdn2.ryplay2.com/20240823/9897_4f495af7/index.m3u8
+
+#EXTINF:-1 group-title="Glory" tvg-logo="https://ry-pic.com/upload/vod/20240824-1/66b0663cdfd31e8fccabb1a8b5fabcb8.jpg",Ep05
+https://cdn2.ryplay2.com/20240823/9904_2ec2e0e1/index.m3u8
+
+#EXTINF:-1 group-title="Glory" tvg-logo="https://ry-pic.com/upload/vod/20240824-1/66b0663cdfd31e8fccabb1a8b5fabcb8.jpg",Ep06
+https://cdn2.ryplay2.com/20240823/9911_03de20a7/index.m3u8
+
+#EXTINF:-1 group-title="Glory" tvg-logo="https://ry-pic.com/upload/vod/20240824-1/66b0663cdfd31e8fccabb1a8b5fabcb8.jpg",Ep07
+https://cdn2.ryplay2.com/20240823/9918_f931fbe1/index.m3u8
+
+#EXTINF:-1 group-title="Glory" tvg-logo="https://ry-pic.com/upload/vod/20240824-1/66b0663cdfd31e8fccabb1a8b5fabcb8.jpg",Ep08
+https://cdn2.ryplay2.com/20240823/9921_6265d243/index.m3u8
+
+#EXTINF:-1 group-title="Glory" tvg-logo="https://ry-pic.com/upload/vod/20240824-1/66b0663cdfd31e8fccabb1a8b5fabcb8.jpg",Ep09
+https://cdn2.ryplay2.com/20240823/9928_a3f3b2be/index.m3u8
+
+#EXTINF:-1 group-title="Glory" tvg-logo="https://ry-pic.com/upload/vod/20240824-1/66b0663cdfd31e8fccabb1a8b5fabcb8.jpg",Ep10
+https://cdn2.ryplay2.com/20240823/9932_a8d5f84c/index.m3u8
+
+#EXTINF:-1 group-title="Glory" tvg-logo="https://ry-pic.com/upload/vod/20240824-1/66b0663cdfd31e8fccabb1a8b5fabcb8.jpg",Ep11
+https://cdn2.ryplay2.com/20240823/9937_e08257ff/index.m3u8
+
+#EXTINF:-1 group-title="Glory" tvg-logo="https://ry-pic.com/upload/vod/20240824-1/66b0663cdfd31e8fccabb1a8b5fabcb8.jpg",Ep12
+https://cdn2.ryplay2.com/20240823/9942_8b76dbad/index.m3u8
+
+#EXTINF:-1 group-title="Glory" tvg-logo="https://ry-pic.com/upload/vod/20240824-1/66b0663cdfd31e8fccabb1a8b5fabcb8.jpg",Ep13
+https://cdn2.ryplay2.com/20240823/9946_b27770a6/index.m3u8
+
+#EXTINF:-1 group-title="Glory" tvg-logo="https://ry-pic.com/upload/vod/20240824-1/66b0663cdfd31e8fccabb1a8b5fabcb8.jpg",Ep14
+https://cdn2.ryplay2.com/20240823/9949_5676c7d6/index.m3u8
+
+#EXTINF:-1 group-title="Glory" tvg-logo="https://ry-pic.com/upload/vod/20240824-1/66b0663cdfd31e8fccabb1a8b5fabcb8.jpg",Ep15
+https://cdn2.ryplay2.com/20240823/9953_2f5f5d1c/index.m3u8
+
+#EXTINF:-1 group-title="Glory" tvg-logo="https://ry-pic.com/upload/vod/20240824-1/66b0663cdfd31e8fccabb1a8b5fabcb8.jpg",Ep16
+https://cdn2.ryplay2.com/20240823/9957_02bafc8d/index.m3u8
+
+
+
+#EXTINF:-1 group-title="還魂" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b5/Alchemy_of_Souls.jpg",Ep01
+https://play.modujx14.com/20240805/wh8R4Zg6/index.m3u8
+
+#EXTINF:-1 group-title="還魂" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b5/Alchemy_of_Souls.jpg",Ep02
+https://play.modujx14.com/20240805/IUcAiBTf/index.m3u8
+
+#EXTINF:-1 group-title="還魂" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b5/Alchemy_of_Souls.jpg",Ep03
+https://play.modujx14.com/20240805/sc3QkVIy/index.m3u8
+
+#EXTINF:-1 group-title="還魂" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b5/Alchemy_of_Souls.jpg",Ep04
+https://play.modujx14.com/20240805/AOBlygsL/index.m3u8
+
+#EXTINF:-1 group-title="還魂" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b5/Alchemy_of_Souls.jpg",Ep05
+https://play.modujx14.com/20240805/gvkV4ij5/index.m3u8
+
+#EXTINF:-1 group-title="還魂" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b5/Alchemy_of_Souls.jpg",Ep06
+https://play.modujx14.com/20240805/zalfIRrS/index.m3u8
+
+#EXTINF:-1 group-title="還魂" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b5/Alchemy_of_Souls.jpg",Ep07
+https://play.modujx14.com/20240805/stjb2fQv/index.m3u8
+
+#EXTINF:-1 group-title="還魂" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b5/Alchemy_of_Souls.jpg",Ep08
+https://play.modujx14.com/20240805/oIKA504Y/index.m3u8
+
+#EXTINF:-1 group-title="還魂" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b5/Alchemy_of_Souls.jpg",Ep09
+https://play.modujx14.com/20240805/uIe1AuBg/index.m3u8
+
+#EXTINF:-1 group-title="還魂" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b5/Alchemy_of_Souls.jpg",Ep10
+https://play.modujx14.com/20240805/Qu2jxTeO/index.m3u8
+
+#EXTINF:-1 group-title="還魂" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b5/Alchemy_of_Souls.jpg",Ep11
+https://play.modujx14.com/20240805/fyw7bdej/index.m3u8
+
+#EXTINF:-1 group-title="還魂" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b5/Alchemy_of_Souls.jpg",Ep12
+https://play.modujx14.com/20240805/BDPP7zu4/index.m3u8
+
+#EXTINF:-1 group-title="還魂" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b5/Alchemy_of_Souls.jpg",Ep13
+https://play.modujx14.com/20240805/jLWUNgAF/index.m3u8
+
+#EXTINF:-1 group-title="還魂" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b5/Alchemy_of_Souls.jpg",Ep14
+https://play.modujx14.com/20240805/vRIXENuJ/index.m3u8
+
+#EXTINF:-1 group-title="還魂" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b5/Alchemy_of_Souls.jpg",Ep15
+https://play.modujx14.com/20240805/sKW99NO3/index.m3u8
+
+#EXTINF:-1 group-title="還魂" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b5/Alchemy_of_Souls.jpg",Ep16
+https://play.modujx14.com/20240805/CECtRrXp/index.m3u8
+
+#EXTINF:-1 group-title="還魂" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b5/Alchemy_of_Souls.jpg",Ep17
+https://play.modujx14.com/20240805/DSuwn01s/index.m3u8
+
+#EXTINF:-1 group-title="還魂" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b5/Alchemy_of_Souls.jpg",Ep18
+https://play.modujx14.com/20240805/6ejctHzJ/index.m3u8
+
+#EXTINF:-1 group-title="還魂" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b5/Alchemy_of_Souls.jpg",Ep19
+https://play.modujx14.com/20240805/0L9bVIDm/index.m3u8
+
+#EXTINF:-1 group-title="還魂" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b5/Alchemy_of_Souls.jpg",Ep20
+https://play.modujx14.com/20240805/5yEElpXT/index.m3u8
+
+
+#EXTINF:-1 group-title="還魂：光與影" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/4b/Alchemy_of_Souls_Light_and_Shadow.jpg",Ep01
+https://cdn8.ryplay8.com/20240926/7972_821262a5/index.m3u8
+
+#EXTINF:-1 group-title="還魂：光與影" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/4b/Alchemy_of_Souls_Light_and_Shadow.jpg",Ep02
+https://cdn8.ryplay8.com/20240926/7976_9462c6b6/index.m3u8
+
+#EXTINF:-1 group-title="還魂：光與影" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/4b/Alchemy_of_Souls_Light_and_Shadow.jpg",Ep03
+https://cdn8.ryplay8.com/20240926/7984_8780f8af/index.m3u8
+
+#EXTINF:-1 group-title="還魂：光與影" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/4b/Alchemy_of_Souls_Light_and_Shadow.jpg",Ep04
+https://cdn8.ryplay8.com/20240926/7988_58aaa4fb/index.m3u8
+
+#EXTINF:-1 group-title="還魂：光與影" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/4b/Alchemy_of_Souls_Light_and_Shadow.jpg",Ep05
+https://cdn8.ryplay8.com/20240926/7989_cbdc7bd3/index.m3u8
+
+#EXTINF:-1 group-title="還魂：光與影" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/4b/Alchemy_of_Souls_Light_and_Shadow.jpg",Ep06
+https://cdn8.ryplay8.com/20240926/7996_2c31798a/index.m3u8
+
+#EXTINF:-1 group-title="還魂：光與影" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/4b/Alchemy_of_Souls_Light_and_Shadow.jpg",Ep07
+https://cdn8.ryplay8.com/20240926/8011_61023d83/index.m3u8
+
+#EXTINF:-1 group-title="還魂：光與影" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/4b/Alchemy_of_Souls_Light_and_Shadow.jpg",Ep08
+https://cdn8.ryplay8.com/20240926/8012_fd751c48/index.m3u8
+
+#EXTINF:-1 group-title="還魂：光與影" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/4b/Alchemy_of_Souls_Light_and_Shadow.jpg",Ep09
+https://cdn8.ryplay8.com/20240926/8017_245eb16c/index.m3u8
+
+#EXTINF:-1 group-title="還魂：光與影" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/4b/Alchemy_of_Souls_Light_and_Shadow.jpg",Ep10
+https://cdn8.ryplay8.com/20240926/8028_7041685d/index.m3u8
+
+
+#EXTINF:-1 group-title="Moving" tvg-logo="https://tu.iqiyizyimg.com/upload/vod/20250623-1/fe2b603037ae617936019139e4c353b8.jpg",Ep01
+https://play.ly166.com:65/videos/20250622/685816b45cf6b9c746e59830/c9b440/index.m3u8
+
+#EXTINF:-1 group-title="Moving" tvg-logo="https://tu.iqiyizyimg.com/upload/vod/20250623-1/fe2b603037ae617936019139e4c353b8.jpg",Ep02
+https://play.ly166.com:65/videos/20250622/685816f05cf6b9c746e5cfa5/c8fb27/index.m3u8
+
+#EXTINF:-1 group-title="Moving" tvg-logo="https://tu.iqiyizyimg.com/upload/vod/20250623-1/fe2b603037ae617936019139e4c353b8.jpg",Ep03
+https://play.ly166.com:65/videos/20250622/685816f05cf6b9c746e5cfa6/1ad1e6/index.m3u8
+
+#EXTINF:-1 group-title="Moving" tvg-logo="https://tu.iqiyizyimg.com/upload/vod/20250623-1/fe2b603037ae617936019139e4c353b8.jpg",Ep04
+https://play.ly166.com:65/videos/20250622/685816f05cf6b9c746e5cfa7/79gb59/index.m3u8
+
+#EXTINF:-1 group-title="Moving" tvg-logo="https://tu.iqiyizyimg.com/upload/vod/20250623-1/fe2b603037ae617936019139e4c353b8.jpg",Ep05
+https://play.ly166.com:65/videos/20250622/685817685cf6b9c746e62b62/c531ab/index.m3u8
+
+#EXTINF:-1 group-title="Moving" tvg-logo="https://tu.iqiyizyimg.com/upload/vod/20250623-1/fe2b603037ae617936019139e4c353b8.jpg",Ep06
+https://play.ly166.com:65/videos/20250622/6858172c5cf6b9c746e5f519/b8g3e4/index.m3u8
+
+#EXTINF:-1 group-title="Moving" tvg-logo="https://tu.iqiyizyimg.com/upload/vod/20250623-1/fe2b603037ae617936019139e4c353b8.jpg",Ep07
+https://play.ly166.com:65/videos/20250622/6858172c5cf6b9c746e5f518/0d896e/index.m3u8
+
+#EXTINF:-1 group-title="Moving" tvg-logo="https://tu.iqiyizyimg.com/upload/vod/20250623-1/fe2b603037ae617936019139e4c353b8.jpg",Ep08
+https://play.ly166.com:65/videos/20250622/6858172c5cf6b9c746e5f51a/cd073f/index.m3u8
+
+#EXTINF:-1 group-title="Moving" tvg-logo="https://tu.iqiyizyimg.com/upload/vod/20250623-1/fe2b603037ae617936019139e4c353b8.jpg",Ep09
+https://play.ly166.com:65/videos/20250622/685816f05cf6b9c746e5cfa4/a7g33d/index.m3u8
+
+#EXTINF:-1 group-title="Moving" tvg-logo="https://tu.iqiyizyimg.com/upload/vod/20250623-1/fe2b603037ae617936019139e4c353b8.jpg",Ep10
+https://play.ly166.com:65/videos/20250622/685819bf5cf6b9c746e844fe/a41a6b/index.m3u8
+
+#EXTINF:-1 group-title="Moving" tvg-logo="https://tu.iqiyizyimg.com/upload/vod/20250623-1/fe2b603037ae617936019139e4c353b8.jpg",Ep11
+https://play.ly166.com:65/videos/20250622/685819bf5cf6b9c746e844ff/e1db15/index.m3u8
+
+#EXTINF:-1 group-title="Moving" tvg-logo="https://tu.iqiyizyimg.com/upload/vod/20250623-1/fe2b603037ae617936019139e4c353b8.jpg",Ep12
+https://play.ly166.com:65/videos/20250622/68581a7480eee9b95548de88/907ga9/index.m3u8
+
+#EXTINF:-1 group-title="Moving" tvg-logo="https://tu.iqiyizyimg.com/upload/vod/20250623-1/fe2b603037ae617936019139e4c353b8.jpg",Ep13
+https://play.ly166.com:65/videos/20250622/685819fb80eee9b955485fa9/a4d4f2/index.m3u8
+
+#EXTINF:-1 group-title="Moving" tvg-logo="https://tu.iqiyizyimg.com/upload/vod/20250623-1/fe2b603037ae617936019139e4c353b8.jpg",Ep14
+https://play.ly166.com:65/videos/20250622/68581a7480eee9b95548de87/942575/index.m3u8
+
+#EXTINF:-1 group-title="Moving" tvg-logo="https://tu.iqiyizyimg.com/upload/vod/20250623-1/fe2b603037ae617936019139e4c353b8.jpg",Ep15
+https://play.ly166.com:65/videos/20250622/68581a7480eee9b95548de89/1e7551/index.m3u8
+
+#EXTINF:-1 group-title="Moving" tvg-logo="https://tu.iqiyizyimg.com/upload/vod/20250623-1/fe2b603037ae617936019139e4c353b8.jpg",Ep16
+https://play.ly166.com:65/videos/20250622/6858194880eee9b95547c336/01a179/index.m3u8
+
+#EXTINF:-1 group-title="Moving" tvg-logo="https://tu.iqiyizyimg.com/upload/vod/20250623-1/fe2b603037ae617936019139e4c353b8.jpg",Ep17
+https://play.ly166.com:65/videos/20250622/6858190c80eee9b9554792fc/fbb1f6/index.m3u8
+
+#EXTINF:-1 group-title="Moving" tvg-logo="https://tu.iqiyizyimg.com/upload/vod/20250623-1/fe2b603037ae617936019139e4c353b8.jpg",Ep18
+https://play.ly166.com:65/videos/20250622/685819855cf6b9c746e8099d/2c22d3/index.m3u8
+
+#EXTINF:-1 group-title="Moving" tvg-logo="https://tu.iqiyizyimg.com/upload/vod/20250623-1/fe2b603037ae617936019139e4c353b8.jpg",Ep19
+https://play.ly166.com:65/videos/20250622/685819855cf6b9c746e8099c/421d3g/index.m3u8
+
+#EXTINF:-1 group-title="Moving" tvg-logo="https://tu.iqiyizyimg.com/upload/vod/20250623-1/fe2b603037ae617936019139e4c353b8.jpg",Ep20
+https://play.ly166.com:65/videos/20250622/685819855cf6b9c746e8099e/fg9b78/index.m3u8
+
+#EXTINF:-1 group-title="24_S09" tvg-logo="https://mtzy.me/upload/vod/20250122-1/aff71c497cc7c59947983ae925557ecb.jpg",Ep01
+https://play.modujx12.com/20240625/zRGjteLg/index.m3u8
+
+#EXTINF:-1 group-title="24_S09" tvg-logo="https://mtzy.me/upload/vod/20250122-1/aff71c497cc7c59947983ae925557ecb.jpg",Ep02
+https://play.modujx12.com/20240625/MEA7Dn2y/index.m3u8
+
+#EXTINF:-1 group-title="24_S09" tvg-logo="https://mtzy.me/upload/vod/20250122-1/aff71c497cc7c59947983ae925557ecb.jpg",Ep03
+https://play.modujx12.com/20240625/Gs6RLikh/index.m3u8
+
+#EXTINF:-1 group-title="24_S09" tvg-logo="https://mtzy.me/upload/vod/20250122-1/aff71c497cc7c59947983ae925557ecb.jpg",Ep04
+https://play.modujx12.com/20240625/5OOecxfH/index.m3u8
+
+#EXTINF:-1 group-title="24_S09" tvg-logo="https://mtzy.me/upload/vod/20250122-1/aff71c497cc7c59947983ae925557ecb.jpg",Ep05
+https://play.modujx12.com/20240625/ZVdZq00F/index.m3u8
+
+#EXTINF:-1 group-title="24_S09" tvg-logo="https://mtzy.me/upload/vod/20250122-1/aff71c497cc7c59947983ae925557ecb.jpg",Ep06
+https://play.modujx12.com/20240625/oxQYoT2b/index.m3u8
+
+#EXTINF:-1 group-title="24_S09" tvg-logo="https://mtzy.me/upload/vod/20250122-1/aff71c497cc7c59947983ae925557ecb.jpg",Ep07
+https://play.modujx12.com/20240625/UlCyNifd/index.m3u8
+
+#EXTINF:-1 group-title="24_S09" tvg-logo="https://mtzy.me/upload/vod/20250122-1/aff71c497cc7c59947983ae925557ecb.jpg",Ep08
+https://play.modujx12.com/20240625/z1fCNeZm/index.m3u8
+
+#EXTINF:-1 group-title="24_S09" tvg-logo="https://mtzy.me/upload/vod/20250122-1/aff71c497cc7c59947983ae925557ecb.jpg",Ep09
+https://play.modujx12.com/20240625/NmWh9Do2/index.m3u8
+
+#EXTINF:-1 group-title="24_S09" tvg-logo="https://mtzy.me/upload/vod/20250122-1/aff71c497cc7c59947983ae925557ecb.jpg",Ep10
+https://play.modujx12.com/20240625/DWSur7sF/index.m3u8
+
+#EXTINF:-1 group-title="24_S09" tvg-logo="https://mtzy.me/upload/vod/20250122-1/aff71c497cc7c59947983ae925557ecb.jpg",Ep11
+https://play.modujx12.com/20240625/XbKmGdiu/index.m3u8
+
+#EXTINF:-1 group-title="24_S09" tvg-logo="https://mtzy.me/upload/vod/20250122-1/aff71c497cc7c59947983ae925557ecb.jpg",Ep12
+https://play.modujx12.com/20240625/Jo3Aheal/index.m3u8
+
+#EXTINF:-1 group-title="WestWorld_S01" tvg-logo="https://ry-pic.com/upload/vod/20240920-1/62d9d018592779656c5ef0eb261395b1.jpg",Ep01
+https://cdn8.ryplay8.com/20240920/3730_5bbd59a8/index.m3u8
+
+#EXTINF:-1 group-title="WestWorld_S01" tvg-logo="https://ry-pic.com/upload/vod/20240920-1/62d9d018592779656c5ef0eb261395b1.jpg",Ep02
+https://cdn8.ryplay8.com/20240920/3731_3dc2ba6b/index.m3u8
+
+#EXTINF:-1 group-title="WestWorld_S01" tvg-logo="https://ry-pic.com/upload/vod/20240920-1/62d9d018592779656c5ef0eb261395b1.jpg",Ep03
+https://cdn8.ryplay8.com/20240920/3732_9e183947/index.m3u8
+
+#EXTINF:-1 group-title="WestWorld_S01" tvg-logo="https://ry-pic.com/upload/vod/20240920-1/62d9d018592779656c5ef0eb261395b1.jpg",Ep04
+https://cdn8.ryplay8.com/20240920/3733_d75027d5/index.m3u8
+
+#EXTINF:-1 group-title="WestWorld_S01" tvg-logo="https://ry-pic.com/upload/vod/20240920-1/62d9d018592779656c5ef0eb261395b1.jpg",Ep05
+https://cdn8.ryplay8.com/20240920/3734_646c60a0/index.m3u8
+
+#EXTINF:-1 group-title="WestWorld_S01" tvg-logo="https://ry-pic.com/upload/vod/20240920-1/62d9d018592779656c5ef0eb261395b1.jpg",Ep06
+https://cdn8.ryplay8.com/20240920/3738_0a5460f1/index.m3u8
+
+#EXTINF:-1 group-title="WestWorld_S01" tvg-logo="https://ry-pic.com/upload/vod/20240920-1/62d9d018592779656c5ef0eb261395b1.jpg",Ep07
+https://cdn8.ryplay8.com/20240920/3736_c3608197/index.m3u8
+
+#EXTINF:-1 group-title="WestWorld_S01" tvg-logo="https://ry-pic.com/upload/vod/20240920-1/62d9d018592779656c5ef0eb261395b1.jpg",Ep08
+https://cdn8.ryplay8.com/20240920/3737_c3182a65/index.m3u8
+
+#EXTINF:-1 group-title="WestWorld_S01" tvg-logo="https://ry-pic.com/upload/vod/20240920-1/62d9d018592779656c5ef0eb261395b1.jpg",Ep09
+https://cdn8.ryplay8.com/20240920/3739_13c2e701/index.m3u8
+
+#EXTINF:-1 group-title="WestWorld_S01" tvg-logo="https://ry-pic.com/upload/vod/20240920-1/62d9d018592779656c5ef0eb261395b1.jpg",Ep10
+https://cdn8.ryplay8.com/20240920/3742_abead597/index.m3u8
+
+#EXTINF:-1 group-title="WestWorld_S02" tvg-logo="https://ry-pic.com/upload/vod/20240920-1/dbe3f04ff08a3590dee0a788d4e6548a.jpg",Ep01
+https://cdn8.ryplay8.com/20240920/3721_8991407c/index.m3u8
+
+#EXTINF:-1 group-title="WestWorld_S02" tvg-logo="https://ry-pic.com/upload/vod/20240920-1/dbe3f04ff08a3590dee0a788d4e6548a.jpg",Ep02
+https://cdn8.ryplay8.com/20240920/3722_cdf3f5ad/index.m3u8
+
+#EXTINF:-1 group-title="WestWorld_S02" tvg-logo="https://ry-pic.com/upload/vod/20240920-1/dbe3f04ff08a3590dee0a788d4e6548a.jpg",Ep03
+https://cdn8.ryplay8.com/20240920/3723_b2acbead/index.m3u8
+
+#EXTINF:-1 group-title="WestWorld_S02" tvg-logo="https://ry-pic.com/upload/vod/20240920-1/dbe3f04ff08a3590dee0a788d4e6548a.jpg",Ep04
+https://cdn8.ryplay8.com/20240920/3724_cc1c96c9/index.m3u8
+
+#EXTINF:-1 group-title="WestWorld_S02" tvg-logo="https://ry-pic.com/upload/vod/20240920-1/dbe3f04ff08a3590dee0a788d4e6548a.jpg",Ep05
+https://cdn8.ryplay8.com/20240920/3726_c2a903cd/index.m3u8
+
+#EXTINF:-1 group-title="WestWorld_S02" tvg-logo="https://ry-pic.com/upload/vod/20240920-1/dbe3f04ff08a3590dee0a788d4e6548a.jpg",Ep06
+https://cdn8.ryplay8.com/20240920/3727_f53d556d/index.m3u8
+
+#EXTINF:-1 group-title="WestWorld_S02" tvg-logo="https://ry-pic.com/upload/vod/20240920-1/dbe3f04ff08a3590dee0a788d4e6548a.jpg",Ep07
+https://cdn8.ryplay8.com/20240920/3725_7328897b/index.m3u8
+
+#EXTINF:-1 group-title="WestWorld_S02" tvg-logo="https://ry-pic.com/upload/vod/20240920-1/dbe3f04ff08a3590dee0a788d4e6548a.jpg",Ep08
+https://cdn8.ryplay8.com/20240920/3728_faca497b/index.m3u8
+
+#EXTINF:-1 group-title="WestWorld_S02" tvg-logo="https://ry-pic.com/upload/vod/20240920-1/dbe3f04ff08a3590dee0a788d4e6548a.jpg",Ep09
+https://cdn8.ryplay8.com/20240920/3729_a0295da1/index.m3u8
+
+#EXTINF:-1 group-title="WestWorld_S02" tvg-logo="https://ry-pic.com/upload/vod/20240920-1/dbe3f04ff08a3590dee0a788d4e6548a.jpg",Ep10
+https://cdn8.ryplay8.com/20240920/3735_60109ff4/index.m3u8
+
+
+#EXTINF:-1 group-title="Movies" tvg-logo="",Martian
+https://cdn1.ryplay1.com/20240910/7716_275bd5c3/index.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="",Project Hail Mary
+https://bfikuncdn.com/20260510/HmCaF4mQ/7377kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="",Wick
+https://bfikuncdn.com/20221009/e2gPJNlw/index.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="",Wick 2
+https://bfikuncdn.com/20221209/iWx6EdTx/index.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="",Wick 3
+https://bfikuncdn.com/20221003/l7r5rTVu/index.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="",Ballerina
+https://bfikuncdn.com/20250702/MsIP4Ufz/index.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="",Wick 4
+https://bfikuncdn.com/20230523/rXw5ElRN/index.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="",Blades of the Guardians
+https://svip.ryiplay18.com/20260611/7047_85eb65b6/index.m3u8
+
+
+#EXTINF:-1 group-title="Movies" tvg-logo="",Iron Man 2
+https://cdn1.ryplay1.com/20240910/7702_9ad1f80a/index.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="",Avengers
+https://vodcnd08.oag7h.com/20251122/3ezdY72L/index.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="",Iron Man 3
+https://cdn1.ryplay1.com/20240911/7893_679f744c/index.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="",Age of Ultron
+https://vod2.maowushi.com/20230718/cYph8mBj/index.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="",Civil War
+https://cdn1.ryplay1.com/20240910/7732_a791234d/index.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="",Homecoming
+https://cdn1.ryplay1.com/20240910/7783_f21cebc2/index.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="", Infinity War
+https://cdn1.ryplay1.com/20240907/7026_5d0b55db/index.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="",Endgame
+https://cdn1.ryplay1.com/20240907/7024_75320467/index.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="",Far From Home
+https://cdn1.ryplay1.com/20240910/7782_f8469206/2000k/hls/index.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="",No Way Home
+https://cdn1.ryplay1.com/20240826/4481_f3ee2211/2000k/hls/index.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="",Brand New Day
+https://bfikuncdn.com/20261005/inI3cok5/index.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="",Top Gun Maverick
+https://cdn1.ryplay1.com/20240828/5000_788777ed/2000k/hls/index.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="",尋秦記
+https://svip.ryiplay18.com/20260221/2957_f2d4f678/index.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="",MI: Ghost Protocol
+https://cdn1.ryplay1.com/20240912/8043_a638e97b/index.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="",MI: Rogue Nation
+https://play.ly166.com:65/videos/20250518/6829d07480eee9b9557f5485/d903g5/index.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="",MI: Fallout
+https://cdn1.ryplay1.com/20240910/7692_0ea5a7ae/index.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="",MI: Dead Reckoning
+https://bfikuncdn.com/20240130/JGfUYWxr/index.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="",MI: Final Reckoning
+https://vod1.maowushi.com/20250818/Htt2mmqJ/index.m3u8
