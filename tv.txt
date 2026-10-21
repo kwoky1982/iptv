@@ -40,7 +40,7 @@ https://cdn.19891230.eu.org/hk/now-333/index.m3u8
 http://150.136.86.140/tv/cdn/hoy76.m3u8
 
 #EXTINF:-1 group-title="香港" tvg-logo="https://lh3.googleusercontent.com/82zuLXdqVY2vzyWgumQI6hIcxzYW0nZOipVmp2ooqXD6yHaZYeAb4hVum-WYrzQd9sw=s180-rw",香港開電視
-http://150.136.86.140/tv/cdn/hoy.m3u8
+http://150.136.86.140/tv/cdn6/hoy.m3u8
 
 #EXTINF:-1 group-title="香港" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJUXDEgwaIJQCqFkRz8r1w3yvukQ9dKj4VsFR2-0d2i99vEXKP1Kh4YE0iygnys_8dKA&usqp=CAU",HOY資訊台
 http://150.136.86.140/tv/cdn/hoy78.m3u8
