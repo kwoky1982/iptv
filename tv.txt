@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="香港" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI3XFwOuvU6bMyW5gDhluwrc4EuHu-T9g49A&s",翡翠台
-http://150.136.86.140/tv/cdn/fct.m3u8
+http://150.136.86.140/tv/cdn6/fct.m3u8
 
 #EXTINF:-1 group-title="香港" tvg-logo="https://play-lh.googleusercontent.com/OFgLg4EKfnUG85Q-CENDDDCMFFDv45-0t9x6swg-8h96q8dB11ZTDzZ87J-KFX11dw",TVB-J1
 https://amg01868-amg01868c6-tvbanywhere-us-4494.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbj1-tvbanywhereus/playlist.m3u8
