@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="香港" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI3XFwOuvU6bMyW5gDhluwrc4EuHu-T9g49A&s",翡翠台
-http://150.136.86.140/tv/cdn6/fct.m3u8
+http://150.136.86.140/tv/cdn/fct.m3u8
 
 #EXTINF:-1 group-title="香港" tvg-logo="https://play-lh.googleusercontent.com/OFgLg4EKfnUG85Q-CENDDDCMFFDv45-0t9x6swg-8h96q8dB11ZTDzZ87J-KFX11dw",TVB-J1
 https://amg01868-amg01868c6-tvbanywhere-us-4494.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbj1-tvbanywhereus/playlist.m3u8
@@ -244,7 +244,7 @@ http://23.237.104.106:8080/USA_NBA/index.m3u8
 http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
 
 #EXTINF:-1 group-title="體育" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585-354x200.jpg",FS1
-http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8
+http://d029dcec.kazmazpaz.ru/iptv/FHKC2D3GGKYK3Q/7322/index.m3u8
 
 #EXTINF:-1 group-title="體育" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2017/08/FS2-Logo_1040x585-354x200.jpg",FS2
 http://d029dcec.kazmazpaz.ru/iptv/FHKC2D3GGKYK3Q/7323/index.m3u8
