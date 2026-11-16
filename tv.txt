@@ -289,7 +289,7 @@ http://192.168.86.31:5004/auto/v9.1
 http://192.168.86.31:5004/auto/v22.1
 
 #EXTINF:-1 group-title="US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/PBS_Kids_Logo.svg/220px-PBS_Kids_Logo.svg.png",PBS Kids
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
 
 #EXTINF:-1 group-title="US" tvg-logo="https://www.nexstar.tv/wp-content/uploads/2019/06/logo_2024_WDCW.jpg",CW
 http://192.168.86.31:5004/auto/v50.1
