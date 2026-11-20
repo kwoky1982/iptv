@@ -19,35 +19,7 @@ https://svip.ryiplay18.com/20260617/7251_2753eddd/index.m3u8
 https://svip.ryiplay18.com/20260617/7250_8235dc7d/index.m3u8
 
 
-#EXTINF:-1 group-title="金特务：本色回归" tvg-logo="https://tu.iqiyizyimg.com/upload/vod/20260627-1/44ac039ba799ab348ea6a9720f599568.webp",Ep01
-https://play.ly166.com:65/videos/20260626/6a3e9f1d5cf6b9c7465455aa/90e67d/index.m3u8
 
-#EXTINF:-1 group-title="金特务：本色回归" tvg-logo="https://tu.iqiyizyimg.com/upload/vod/20260627-1/44ac039ba799ab348ea6a9720f599568.webp",Ep02
-https://play.ly166.com:65/videos/20260628/6a3ff79d80eee9b9557c15dd/1d11b3/index.m3u8
-
-#EXTINF:-1 group-title="金特务：本色回归" tvg-logo="https://tu.iqiyizyimg.com/upload/vod/20260627-1/44ac039ba799ab348ea6a9720f599568.webp",Ep03
-https://play.ly166.com:65/videos/20260703/6a47dbf180eee9b9552f8e5c/4737d5/index.m3u8
-
-#EXTINF:-1 group-title="金特务：本色回归" tvg-logo="https://tu.iqiyizyimg.com/upload/vod/20260627-1/44ac039ba799ab348ea6a9720f599568.webp",Ep04
-https://play.ly166.com:65/videos/20260704/6a492adc80eee9b95549fc59/ff4c39/index.m3u8
-
-#EXTINF:-1 group-title="金特务：本色回归" tvg-logo="https://tu.iqiyizyimg.com/upload/vod/20260627-1/44ac039ba799ab348ea6a9720f599568.webp",Ep05
-https://play.ly166.com:65/videos/20260710/6a51123a5cf6b9c74686d4aa/8481ga/index.m3u8
-
-#EXTINF:-1 group-title="金特务：本色回归" tvg-logo="https://tu.iqiyizyimg.com/upload/vod/20260627-1/44ac039ba799ab348ea6a9720f599568.webp",Ep06
-https://play.ly166.com:65/videos/20260712/6a526f355cf6b9c746e1f2ba/214b7c/index.m3u8
-
-#EXTINF:-1 group-title="金特务：本色回归" tvg-logo="https://tu.iqiyizyimg.com/upload/vod/20260627-1/44ac039ba799ab348ea6a9720f599568.webp",Ep07
-https://play.ly166.com:65/videos/20260717/6a5a49e55cf6b9c746709333/0g4ga1/index.m3u8
-
-#EXTINF:-1 group-title="金特务：本色回归" tvg-logo="https://tu.iqiyizyimg.com/upload/vod/20260627-1/44ac039ba799ab348ea6a9720f599568.webp",Ep08
-https://play.ly166.com:65/videos/20260718/6a5b9ef15cf6b9c746eb199d/5943aa/index.m3u8
-
-#EXTINF:-1 group-title="金特务：本色回归" tvg-logo="https://tu.iqiyizyimg.com/upload/vod/20260627-1/44ac039ba799ab348ea6a9720f599568.webp",Ep09
-https://play.ly166.com:65/videos/20260724/6a637cac5cf6b9c746be62b6/1775ee/index.m3u8
-
-#EXTINF:-1 group-title="金特务：本色回归" tvg-logo="https://tu.iqiyizyimg.com/upload/vod/20260627-1/44ac039ba799ab348ea6a9720f599568.webp",Ep10
-https://play.ly166.com:65/videos/20260726/6a64dde25cf6b9c746a8410b/57baeg/index.m3u8
 
 
 #EXTINF:-1 group-title="Vision Quest" tvg-logo="https://ynztctv.com/upload/vod/20261014-1/76fd2cb4cc4977efcd79df0bef755d3e.jpg",Ep01
